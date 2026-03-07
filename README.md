@@ -1,13 +1,19 @@
-<!-- Header -->
 <div align="center">
 
 ```
-░█████╗░██╗██████╗░██╗░░░██╗░██████╗
-██╔══██╗██║██╔══██╗╚██╗░██╔╝██╔════╝
-███████║██║██████╦╝░╚████╔╝░╚█████╗░
-██╔══██║██║██╔══██╗░░╚██╔╝░░░╚═══██╗
-██║░░██║██║██████╦╝░░░██║░░░██████╔╝
-╚═╝░░╚═╝╚═╝╚═════╝░░░╚═╝░░░╚═════╝░
+░██████╗██╗░░░██╗░█████╗░██╗░░██╗██████╗░██╗██╗░░░░░
+██╔════╝╚██╗░██╔╝██╔══██╗██║░░██║██╔══██╗██║██║░░░░░
+╚█████╗░░╚████╔╝░███████║███████║██████╔╝██║██║░░░░░
+░╚═══██╗░░╚██╔╝░░██╔══██║██╔══██║██╔══██╗██║██║░░░░░
+██████╔╝░░░██║░░░██║░░██║██║░░██║██║░░██║██║███████╗
+╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚══════╝
+
+██╗░░██╗░█████╗░██████╗░██╗░░░██╗░█████╗░███╗░░██╗░█████╗░
+██║░░██║██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗████╗░██║██╔══██╗
+███████║███████║██████╔╝░╚████╔╝░██║░░██║██╔██╗██║██║░░██║
+██╔══██║██╔══██║██╔══██╗░░╚██╔╝░░██║░░██║██║╚████║██║░░██║
+██║░░██║██║░░██║██║░░██║░░░██║░░░╚█████╔╝██║░╚███║╚█████╔╝
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚════╝░╚═╝░░╚══╝░╚════╝░
 ```
 
 ### Building Indonesian Language Intelligence — from scratch.
@@ -100,28 +106,41 @@ The broader goal? Build language technology that actually works *for* Indonesian
 
 ---
 
-## 🗺️ My Journey in a Nutshell
+## 🗺️ Origin Story
 
 ```
-[2018] ──── Started coding, co-founded ByteDevCode
+[2014] ──── First contact with computers — started exploring
+    │        network security, web vulnerabilities, and defacing.
+    │        Curiosity over malice. Understood how the web works
+    │        by breaking it first.
     │
-[2022] ──── Entered German Language Education @ UNJ
-    │        Started IT Support & Web Development professionally
+[2018] ──── Joined an IT community. Redirected that energy into
+    │        building things instead of breaking them.
+    │        Co-founded ByteDevCode — started building real products.
     │
-[2024] ──── Volunteered at Goethe-Institut "UNIVERSUM.MENSCH.INTELLIGENZ"
-    │        Built & deployed village website for Desa Medalsari, Karawang
-    │        → Learned: tech without human context fails
+[2022] ──── Enrolled in German Language Education @ UNJ.
+    │        An unlikely choice — but language became a new lens
+    │        for understanding how humans and machines communicate.
     │
-[2025] ──── Started building Aibys — Indonesian LLM from scratch
-    │        Trained BPE tokenizer (32K vocab, 10M sentences)
-    │        Built 13B-token corpus pipeline
-    │        First training run: 20K steps ✓ coherent text generation ✓
+[2024] ──── Volunteered at Goethe-Institut Jakarta:
+    │        "UNIVERSUM.MENSCH.INTELLIGENZ" science exhibition.
     │
-[2026] ──── Open-sourced full Aibys ecosystem (3 repos + HuggingFace)
-    │        Certifications: Anthropic, Microsoft, IBM, Google, Amazon
+    │        Built & deployed a digital platform for Desa Medalsari,
+    │        Karawang — trained locals to use it.
+    │        → The platform was abandoned within a year.
+    │        → Lesson learned: technology without human context fails.
+    │
+[2025] ──── Started building Aibys — Indonesian LLM from scratch.
+    │        Trained BPE tokenizer (32K vocab, 10M sentences).
+    │        Built 13B-token corpus pipeline.
+    │        First training run: 20K steps → coherent text generation ✓
+    │
+[2026] ──── Open-sourced full Aibys ecosystem (3 repos + HuggingFace).
+    │        Certifications: Anthropic · Microsoft · IBM · Google · Amazon
     │
 [NOW]  ──── Looking for compute. Looking for collaborators.
-             Building language tech for the 270M people who speak Bahasa Indonesia.
+             Building language tech for the 270M people
+             who speak Bahasa Indonesia. 🇮🇩
 ```
 
 ---
