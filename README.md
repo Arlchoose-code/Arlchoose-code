@@ -38,15 +38,15 @@ I started in tech at 13 — not through courses or bootcamps, but by probing the
 
 I studied **German Language Education** at Universitas Negeri Jakarta, which gave me something most engineers lack: a rigorous understanding of how language is structured, how meaning is encoded, and how communication breaks down across cultures and communities.
 
-Those two worlds collided into one question:
+Along the way, two experiences left me with questions I still can't stop thinking about.
 
-> *Why doesn't Bahasa Indonesia — spoken by 270 million people — have a serious open-source LLM built from scratch?*
+**The first:** Building Aibys — an Indonesian LLM from scratch — made me realize how severely underrepresented Bahasa Indonesia is in the global NLP landscape. 270 million speakers, yet most language models treat it as an afterthought. *Why does this gap exist, and what does it actually take to close it properly?*
 
-That question became **Aibys**. And after spending a week trying to digitalize a rural village in Karawang — training 20–50 locals, watching it get abandoned — the question became something larger:
+**The second:** Leading a digital transformation program at a rural village in Karawang — training 20–50 locals, watching the platform get abandoned within a year — made me realize that the problem isn't just technical. *Why do communities with genuine needs still reject technology built "for" them? What is the actual barrier — and is it linguistic, cultural, or something deeper?*
 
-> *How do linguistic and cultural barriers shape the rejection of AI tools in rural Indonesian communities — and what design principles can actually bridge that gap?*
+These aren't questions I can answer alone, or with just more coding.
 
-**That is the research problem I want to dedicate my graduate work to.**
+**They're the questions I intend to bring into graduate research — and I'm actively looking for the right academic environment to pursue them.**
 
 ---
 
@@ -72,24 +72,27 @@ Aibys Data Collector  →  Indonesian LLM Starter  →  Indonesian LLM Finetune
 
 ---
 
-## 🌏 The Problem I'm Trying to Solve
+## 🌏 Community Work
 
-**270 million people speak Bahasa Indonesia.**
-Yet in the global NLP landscape, it remains severely underrepresented — shoehorned into multilingual models not designed for its morphology, register variation, or the informal dialects of rural communities.
+These are separate from my AI projects — but they shaped how I think about who technology is actually built for.
 
-The gap isn't just technical. It's sociolinguistic.
+### 🌐 Desa Medalsari Digital — Karawang, 2024
+Community service project in collaboration with Universitas Negeri Jakarta.
 
-In 2024, I led a one-week digital transformation program at **Desa Medalsari, Karawang** — built and deployed a village website, directly trained **20–50 local residents** to use it. Within a year, the platform was completely abandoned.
+- Designed and deployed a digital platform for a rural village in Karawang, West Java
+- Conducted a one-week on-site digital literacy training program for **20–50 local residents**
+- Platform was eventually discontinued — not due to technical failure, but low adoption
 
-The code worked. The failure was elsewhere.
+This experience raised questions I haven't stopped thinking about:
+*Why does a working platform, with trained users, still get abandoned?
+Is it the interface? The language? The relevance to their daily lives?
+Or is it something about how we define "digital readiness" that's fundamentally wrong?*
 
-The technology spoke a language — visually, conceptually, interaction-design-wise — that the community didn't recognize as theirs. No amount of training sessions could fix a tool that was never designed with their linguistic and cultural context in mind.
+These questions don't have easy answers — and that's exactly why I want to study them at graduate level.
 
-**This is my research question:**
-
-> *"How do linguistic and cultural barriers shape the rejection of AI-powered tools in rural Indonesian communities, and what design principles can bridge that gap — starting from the language model itself?"*
-
-This sits at the intersection of **Computational Sociolinguistics**, **Low-Resource NLP**, and **Human-Centered AI Design** — and it's where I intend to focus my graduate research.
+### 🎭 Goethe-Institut Jakarta — Volunteer, 2024
+Science exhibition: *"UNIVERSUM · MENSCH · INTELLIGENZ"* at Perpustakaan Nasional RI.
+Assisted visitors in exploring interactive installations about AI, the universe, and human intelligence.
 
 ---
 
@@ -187,30 +190,32 @@ This sits at the intersection of **Computational Sociolinguistics**, **Low-Resou
     │
 [2022] ──── Enrolled in German Language Education @ UNJ.
     │        Studied linguistics, pedagogy, cross-cultural communication.
-    │        → Language became a new lens for understanding
-    │          how humans and machines communicate — and fail to.
+    │        → Language became a new lens: how humans and machines
+    │          communicate — and why they so often fail to.
     │
-[2024] ──── Volunteered at Goethe-Institut Jakarta:
-    │        "UNIVERSUM · MENSCH · INTELLIGENZ" science exhibition.
+[2024] ──── Volunteered at Goethe-Institut Jakarta (UNIVERSUM·MENSCH·INTELLIGENZ).
     │
     │        Led digital transformation at Desa Medalsari, Karawang.
     │        Built the platform. Trained 20–50 locals in one week.
     │        Platform abandoned within a year.
-    │        → A system can be technically perfect and socially useless.
-    │          That realization became my research question.
+    │        → Left with more questions than answers.
+    │          That discomfort became a research direction.
     │
 [2025] ──── Started building Aibys — Indonesian LLM from scratch.
     │        Trained BPE tokenizer (32K vocab, 10M sentences).
     │        Built ~13B-token corpus pipeline.
     │        First training run: 20K steps → coherent Indonesian text ✓
+    │        → More questions: why is Bahasa Indonesia so underrepresented
+    │          in global NLP? What would it take to change that?
     │
-[2026] ──── Open-sourced the full Aibys ecosystem (3 repos + HuggingFace).
+[2026] ──── Open-sourced the full Aibys ecosystem.
     │        Certifications: Anthropic · Microsoft · IBM · Google · Amazon
     │
-[NEXT] ──── Graduate research in Language Technology & Computational
-             Sociolinguistics — investigating why AI tools fail
-             rural Indonesian communities at the linguistic level,
-             and how to build systems that don't. 🇮🇩
+[NEXT] ──── The questions accumulated. The answers require more than
+             solo projects and self-study.
+             Pursuing graduate research to investigate them properly —
+             in Language Technology, Computational Sociolinguistics,
+             or wherever the right program takes me. 🇮🇩
 ```
 
 ---
