@@ -35,7 +35,7 @@
 ```yaml
 status:       "Preparing graduate research applications"
 focus:        "Language Technology × Computational Sociolinguistics"
-target:       "Erasmus Mundus — LCT & EMLDS programs"
+next:         "Graduate research in Language Technology & Computational Sociolinguistics"
 open_to:      "Collaborators, compute resources, research mentors"
 building:     "Aibys — Indonesian LLM ecosystem (full training pending GPU)"
 learning:     "Sociolinguistics research methodology, academic writing EN"
@@ -248,11 +248,11 @@ Assisted visitors exploring interactive installations on AI, the universe, and h
 [2026] ──── Open-sourced the full Aibys ecosystem.
     │        Certifications: Anthropic · Microsoft · IBM · Google · Amazon
     │
-[NEXT] ──── The questions accumulated. The answers require more than
-             solo projects and self-study.
-             Pursuing graduate research to investigate them properly —
-             in Language Technology, Computational Sociolinguistics,
-             or wherever the right program takes me. 🇮🇩
+[NEXT] ──── The questions accumulated.
+             Solo projects and self-study can only go so far.
+             The next step is finding the right research environment
+             to investigate them properly — and the right people
+             to investigate them with. 🇮🇩
 ```
 
 ---
