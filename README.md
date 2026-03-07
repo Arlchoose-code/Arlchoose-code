@@ -261,8 +261,6 @@ Assisted visitors exploring interactive installations on AI, the universe, and h
 
 ![snake gif](https://github.com/Arlchoose-code/Arlchoose-code/blob/output/github-contribution-grid-snake-dark.svg)
 
-> *To enable the snake animation: go to your repo **Actions** tab → enable the workflow → it auto-generates on schedule.*
-
 ---
 
 <div align="center">
