@@ -31,24 +31,22 @@
 
 ## 👋 About Me
 
-I'm **Syahril Haryono** — an Indonesian developer sitting at an unusual intersection:
+I'm **Syahril Haryono** — an Indonesian developer at an unusual intersection:
 **German linguistics × AI engineering × grassroots community work.**
 
-I started in tech at 13, not through courses or bootcamps, but by probing the edges of systems — exploring web vulnerabilities, understanding how things break. That early obsession with *how systems actually work under the hood* became the foundation of how I build today: with a deep understanding of failure modes, security implications, and why robust architecture matters from day one.
+I started in tech at 13 — not through courses or bootcamps, but by probing the edges of systems: exploring web vulnerabilities, understanding how things break. That early obsession with *how systems fail under the hood* became the foundation of how I build today: with a deep instinct for failure modes, security implications, and why robust architecture must be designed in from day one — not bolted on as an afterthought.
 
-I studied **German Language Education** at Universitas Negeri Jakarta — which gave me something most engineers lack: a rigorous understanding of how language is structured, how meaning is encoded, and how communication breaks down across cultures and communities.
+I studied **German Language Education** at Universitas Negeri Jakarta, which gave me something most engineers lack: a rigorous understanding of how language is structured, how meaning is encoded, and how communication breaks down across cultures and communities.
 
-Those two worlds collided into a single question:
+Those two worlds collided into one question:
 
 > *Why doesn't Bahasa Indonesia — spoken by 270 million people — have a serious open-source LLM built from scratch?*
 
-That question became **Aibys**.
+That question became **Aibys**. And after spending a week trying to digitalize a rural village in Karawang — training 20–50 locals, watching it get abandoned — the question became something larger:
 
-And after spending time trying to digitalize a rural village in Karawang, only to watch it fail — not because of bad code, but because the technology was never designed for its actual users — that question became something bigger:
+> *How do linguistic and cultural barriers shape the rejection of AI tools in rural Indonesian communities — and what design principles can actually bridge that gap?*
 
-> *How do we build language technology that genuinely serves communities, not just demos?*
-
-That's the research problem I want to dedicate my graduate work to.
+**That is the research problem I want to dedicate my graduate work to.**
 
 ---
 
@@ -58,8 +56,8 @@ That's the research problem I want to dedicate my graduate work to.
 
 | | Repo | What it does |
 |--|------|-------------|
-| 🗃️ | [**Aibys-Data-Collector**](https://github.com/Arlchoose-code/Aibys-Data-Collector) | Collect, clean, shuffle & prepare Indonesian text datasets. Streaming-mode for 50GB+ corpora without RAM overflow. Estimated corpus: ~13B tokens. |
-| 🏗️ | [**Indonesian-LLM-Starter**](https://github.com/Arlchoose-code/Indonesian-LLM-Starter) | Decoder-only Transformer from PyTorch scratch. Architecture: RMSNorm · RoPE · SwiGLU · Flash Attention 2 · GGUF export for Ollama. |
+| 🗃️ | [**Aibys-Data-Collector**](https://github.com/Arlchoose-code/Aibys-Data-Collector) | Collect, clean, shuffle & prepare Indonesian text datasets. Streaming-mode for 50GB+ corpora. Estimated corpus: ~13B tokens. |
+| 🏗️ | [**Indonesian-LLM-Starter**](https://github.com/Arlchoose-code/Indonesian-LLM-Starter) | Decoder-only Transformer from PyTorch scratch: RMSNorm · RoPE · SwiGLU · Flash Attention 2 · GGUF export. |
 | 🎯 | [**Indonesian-LLM-Finetune**](https://github.com/Arlchoose-code/Indonesian-LLM-Finetune) | LoRA fine-tuning pipeline — turn a pre-trained checkpoint into a conversational Bahasa Indonesia assistant. |
 | 🔤 | [**aibys-tokenizer**](https://huggingface.co/syhrlhyn/aibys-tokenizer) | BPE tokenizer · 32K vocab · trained on 10M sentences · weighted sampling optimized for Bahasa Indonesia. |
 
@@ -77,17 +75,21 @@ Aibys Data Collector  →  Indonesian LLM Starter  →  Indonesian LLM Finetune
 ## 🌏 The Problem I'm Trying to Solve
 
 **270 million people speak Bahasa Indonesia.**
-Yet in the global NLP landscape, it's an afterthought — shoehorned into multilingual models not designed for its morphology, register variation, or the informal dialects spoken in rural communities.
+Yet in the global NLP landscape, it remains severely underrepresented — shoehorned into multilingual models not designed for its morphology, register variation, or the informal dialects of rural communities.
 
-The gap isn't just technical. It's social.
+The gap isn't just technical. It's sociolinguistic.
 
-In 2024, I built and deployed a digital platform for **Desa Medalsari, Karawang** — a rural village with limited digital literacy. I trained the locals to use it. Within a year, it was abandoned.
+In 2024, I led a one-week digital transformation program at **Desa Medalsari, Karawang** — built and deployed a village website, directly trained **20–50 local residents** to use it. Within a year, the platform was completely abandoned.
 
-The failure wasn't the code. The failure was that the technology spoke a language — visual, conceptual, interaction-design-wise — that the community didn't recognize as theirs.
+The code worked. The failure was elsewhere.
 
-That experience reframed everything. It's not enough to build AI *about* Indonesian language. We need AI *for* Indonesian communities — designed with their context, their constraints, and their voices at the center.
+The technology spoke a language — visually, conceptually, interaction-design-wise — that the community didn't recognize as theirs. No amount of training sessions could fix a tool that was never designed with their linguistic and cultural context in mind.
 
-**That's the research gap I want to work on at graduate level.**
+**This is my research question:**
+
+> *"How do linguistic and cultural barriers shape the rejection of AI-powered tools in rural Indonesian communities, and what design principles can bridge that gap — starting from the language model itself?"*
+
+This sits at the intersection of **Computational Sociolinguistics**, **Low-Resource NLP**, and **Human-Centered AI Design** — and it's where I intend to focus my graduate research.
 
 ---
 
@@ -175,7 +177,7 @@ That experience reframed everything. It's not enough to build AI *about* Indones
 [2014] ──── Age 13. First contact with the internet's underbelly.
     │        Explored web vulnerabilities, network weaknesses, defacing.
     │        Not malice — pure curiosity about how systems work.
-    │        → This gave me something no course teaches:
+    │        → Gained something no course teaches:
     │          an instinct for where systems fail,
     │          and why security must be designed in, not bolted on.
     │
@@ -186,29 +188,29 @@ That experience reframed everything. It's not enough to build AI *about* Indones
 [2022] ──── Enrolled in German Language Education @ UNJ.
     │        Studied linguistics, pedagogy, cross-cultural communication.
     │        → Language became a new lens for understanding
-    │          how humans and machines communicate — and miscommunicate.
+    │          how humans and machines communicate — and fail to.
     │
 [2024] ──── Volunteered at Goethe-Institut Jakarta:
     │        "UNIVERSUM · MENSCH · INTELLIGENZ" science exhibition.
-    │        Assisted visitors exploring AI & science installations.
     │
-    │        Built & deployed a digital platform for Desa Medalsari,
-    │        Karawang. Trained villagers to use it.
+    │        Led digital transformation at Desa Medalsari, Karawang.
+    │        Built the platform. Trained 20–50 locals in one week.
     │        Platform abandoned within a year.
-    │        → Technology without human context is just noise.
+    │        → A system can be technically perfect and socially useless.
+    │          That realization became my research question.
     │
-[2025] ──── Asked: why does Bahasa Indonesia still lack a proper
-    │        open-source LLM? Started building Aibys from scratch.
-    │        Trained BPE tokenizer · Built 13B-token corpus pipeline
+[2025] ──── Started building Aibys — Indonesian LLM from scratch.
+    │        Trained BPE tokenizer (32K vocab, 10M sentences).
+    │        Built ~13B-token corpus pipeline.
     │        First training run: 20K steps → coherent Indonesian text ✓
     │
-[2026] ──── Open-sourced the full Aibys ecosystem.
-    │        Certifications across Anthropic, Microsoft, IBM,
-    │        Google Cloud, Amazon, Duke, Meta.
+[2026] ──── Open-sourced the full Aibys ecosystem (3 repos + HuggingFace).
+    │        Certifications: Anthropic · Microsoft · IBM · Google · Amazon
     │
-[NOW]  ──── Seeking graduate research opportunities in
-             Language Technology · NLP · AI for Social Good.
-             Building language intelligence for the 270 million. 🇮🇩
+[NEXT] ──── Graduate research in Language Technology & Computational
+             Sociolinguistics — investigating why AI tools fail
+             rural Indonesian communities at the linguistic level,
+             and how to build systems that don't. 🇮🇩
 ```
 
 ---
