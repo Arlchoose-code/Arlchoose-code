@@ -24,8 +24,36 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syahril-haryono)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/syhrlhyn)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://arlchoose.id/contact)
+[![Profile Views](https://komarev.com/ghpvc/?username=Arlchoose-code&style=flat-square&color=58a6ff&label=profile+views)](https://github.com/Arlchoose-code)
 
 </div>
+
+---
+
+## 🔭 Currently Working On
+
+```yaml
+status:       "Preparing graduate research applications"
+focus:        "Language Technology × Computational Sociolinguistics"
+target:       "Erasmus Mundus — LCT & EMLDS programs"
+open_to:      "Collaborators, compute resources, research mentors"
+building:     "Aibys — Indonesian LLM ecosystem (full training pending GPU)"
+learning:     "Sociolinguistics research methodology, academic writing EN"
+```
+
+---
+
+## 🤝 Open to Collaborate On
+
+[![Collaborate](https://img.shields.io/badge/Open_to_Collaborate-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://arlchoose.id/contact)
+
+- 🇮🇩 **Indonesian NLP** — anything that makes Bahasa Indonesia better represented in AI
+- 🏘️ **AI for underserved communities** — especially rural or low-resource contexts
+- 🔬 **Low-resource language modeling** — training, fine-tuning, evaluation
+- 🔐 **Security-aware AI systems** — threat modeling, robust architecture
+- 📚 **Language technology research** — if you're a researcher looking for a motivated collaborator
+
+> *Got compute? I've got the pipeline.* 😄
 
 ---
 
@@ -74,13 +102,13 @@ Aibys Data Collector  →  Indonesian LLM Starter  →  Indonesian LLM Finetune
 
 ## 🌏 Community Work
 
-These are separate from my AI projects — but they shaped how I think about who technology is actually built for.
+*Separate from my AI projects — but these shaped how I think about who technology is actually built for.*
 
 ### 🌐 Desa Medalsari Digital — Karawang, 2024
 Community service project in collaboration with Universitas Negeri Jakarta.
 
 - Designed and deployed a digital platform for a rural village in Karawang, West Java
-- Conducted a one-week on-site digital literacy training program for **20–50 local residents**
+- Conducted a one-week on-site digital literacy training for **20–50 local residents**
 - Platform was eventually discontinued — not due to technical failure, but low adoption
 
 This experience raised questions I haven't stopped thinking about:
@@ -88,11 +116,9 @@ This experience raised questions I haven't stopped thinking about:
 Is it the interface? The language? The relevance to their daily lives?
 Or is it something about how we define "digital readiness" that's fundamentally wrong?*
 
-These questions don't have easy answers — and that's exactly why I want to study them at graduate level.
-
 ### 🎭 Goethe-Institut Jakarta — Volunteer, 2024
 Science exhibition: *"UNIVERSUM · MENSCH · INTELLIGENZ"* at Perpustakaan Nasional RI.
-Assisted visitors in exploring interactive installations about AI, the universe, and human intelligence.
+Assisted visitors exploring interactive installations on AI, the universe, and human intelligence.
 
 ---
 
@@ -174,6 +200,17 @@ Assisted visitors in exploring interactive installations about AI, the universe,
 
 ---
 
+## ⚡ Fun Facts
+
+- 🔓 Started hacking systems at 13 — now I build them with security in mind from day one
+- 🇩🇪 Studying German language education while building an Indonesian LLM — yes, both at the same time
+- 💻 Built a 13B-token corpus pipeline on a laptop that couldn't finish the training run
+- 🏘️ Got a whole village to use a digital platform in one week — watched it die in one year
+- 🧠 Believes the most interesting problems in AI are not technical — they're linguistic and social
+- ☕ Powered by questions that don't have Stack Overflow answers
+
+---
+
 ## 🗺️ Origin Story
 
 ```
@@ -217,6 +254,14 @@ Assisted visitors in exploring interactive installations about AI, the universe,
              in Language Technology, Computational Sociolinguistics,
              or wherever the right program takes me. 🇮🇩
 ```
+
+---
+
+## 🐍 Contribution Activity
+
+![snake gif](https://github.com/Arlchoose-code/Arlchoose-code/blob/output/github-contribution-grid-snake-dark.svg)
+
+> *To enable the snake animation: go to your repo **Actions** tab → enable the workflow → it auto-generates on schedule.*
 
 ---
 
