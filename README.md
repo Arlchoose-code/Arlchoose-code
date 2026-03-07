@@ -100,22 +100,37 @@ The broader goal? Build language technology that actually works *for* Indonesian
 
 ---
 
-## 📊 GitHub Stats
+## 🗺️ My Journey in a Nutshell
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arlchoose-code&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlchoose-code&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
-
-</div>
+```
+[2018] ──── Started coding, co-founded ByteDevCode
+    │
+[2022] ──── Entered German Language Education @ UNJ
+    │        Started IT Support & Web Development professionally
+    │
+[2024] ──── Volunteered at Goethe-Institut "UNIVERSUM.MENSCH.INTELLIGENZ"
+    │        Built & deployed village website for Desa Medalsari, Karawang
+    │        → Learned: tech without human context fails
+    │
+[2025] ──── Started building Aibys — Indonesian LLM from scratch
+    │        Trained BPE tokenizer (32K vocab, 10M sentences)
+    │        Built 13B-token corpus pipeline
+    │        First training run: 20K steps ✓ coherent text generation ✓
+    │
+[2026] ──── Open-sourced full Aibys ecosystem (3 repos + HuggingFace)
+    │        Certifications: Anthropic, Microsoft, IBM, Google, Amazon
+    │
+[NOW]  ──── Looking for compute. Looking for collaborators.
+             Building language tech for the 270M people who speak Bahasa Indonesia.
+```
 
 ---
 
 <div align="center">
 
-*"Language is not just communication — it's the architecture of thought. I build the infrastructure for machines to think in Bahasa Indonesia."*
+*"Language is not just communication — it's the architecture of thought.*
+*I build the infrastructure for machines to think in Bahasa Indonesia."*
 
-**— Syahril Haryono**
+**— Syahril Haryono, Bogor 🇮🇩**
 
 </div>
