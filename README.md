@@ -20,10 +20,10 @@
 
 *Linguist · AI Engineer · Open Source Builder · Security-Aware Developer*
 
-[![Website](https://img.shields.io/badge/arlchoose.id-000000?style=flat-square&logo=safari&logoColor=white)](https://arlchoose.id)
+[![Website](https://img.shields.io/badge/arlab.my.id-000000?style=flat-square&logo=safari&logoColor=white)](https://arlab.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syahril-haryono)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/syhrlhyn)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://arlchoose.id/contact)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://arlab.my.id/contact)
 [![Profile Views](https://komarev.com/ghpvc/?username=Arlchoose-code&style=flat-square&color=58a6ff&label=profile+views)](https://github.com/Arlchoose-code)
 
 </div>
@@ -45,7 +45,7 @@ learning:     "Sociolinguistics research methodology, academic writing EN"
 
 ## 🤝 Open to Collaborate On
 
-[![Collaborate](https://img.shields.io/badge/Open_to_Collaborate-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://arlchoose.id/contact)
+[![Collaborate](https://img.shields.io/badge/Open_to_Collaborate-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://arlab.my.id/contact)
 
 - 🇮🇩 **Indonesian NLP** — anything that makes Bahasa Indonesia better represented in AI
 - 🏘️ **AI for underserved communities** — especially rural or low-resource contexts
@@ -270,6 +270,6 @@ Assisted visitors exploring interactive installations on AI, the universe, and h
 
 **— Syahril Haryono · Bogor, Indonesia 🇮🇩**
 
-[![arlchoose.id](https://img.shields.io/badge/Read_more_at-arlchoose.id-000000?style=for-the-badge&logo=safari&logoColor=white)](https://arlchoose.id)
+[![arlab.my.id](https://img.shields.io/badge/Read_more_at-arlab.my.id-000000?style=for-the-badge&logo=safari&logoColor=white)](https://arlab.my.id)
 
 </div>
