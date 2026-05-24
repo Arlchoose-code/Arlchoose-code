@@ -37,7 +37,8 @@ status:       "Preparing graduate research applications"
 focus:        "Language Technology × Computational Sociolinguistics"
 next:         "Graduate research in Language Technology & Computational Sociolinguistics"
 open_to:      "Collaborators, compute resources, research mentors"
-building:     "Aibys — Indonesian LLM ecosystem (full training pending GPU)"
+building:     "Aibys2 — next-gen Indonesian LLM (tokenizer · training · SFT · tool calling · vision)"
+recent:       "Aibys AI tools suite (research, medical, legal, invoice) · ArLface Recognition"
 learning:     "Sociolinguistics research methodology, academic writing EN"
 ```
 
@@ -82,21 +83,45 @@ These aren't questions I can answer alone, or with just more coding.
 
 > An open-source pipeline for building a Large Language Model for Bahasa Indonesia — entirely from scratch.
 
+### Core LLM Stack
+
 | | Repo | What it does |
 |--|------|-------------|
 | 🗃️ | [**Aibys-Data-Collector**](https://github.com/Arlchoose-code/Aibys-Data-Collector) | Collect, clean, shuffle & prepare Indonesian text datasets. Streaming-mode for 50GB+ corpora. Estimated corpus: ~13B tokens. |
 | 🏗️ | [**Indonesian-LLM-Starter**](https://github.com/Arlchoose-code/Indonesian-LLM-Starter) | Decoder-only Transformer from PyTorch scratch: RMSNorm · RoPE · SwiGLU · Flash Attention 2 · GGUF export. |
 | 🎯 | [**Indonesian-LLM-Finetune**](https://github.com/Arlchoose-code/Indonesian-LLM-Finetune) | LoRA fine-tuning pipeline — turn a pre-trained checkpoint into a conversational Bahasa Indonesia assistant. |
 | 🔤 | [**aibys-tokenizer**](https://huggingface.co/syhrlhyn/aibys-tokenizer) | BPE tokenizer · 32K vocab · trained on 10M sentences · weighted sampling optimized for Bahasa Indonesia. |
+| ⚡ | [**Aibys2**](https://github.com/Arlchoose-code/Aibys2) | Next-gen runnable LLM starter — tokenizer · training · checkpointing · SFT scaffolding · tool calling · vision dataset support. |
 
 ```
 Aibys Data Collector  →  Indonesian LLM Starter  →  Indonesian LLM Finetune
   (corpus pipeline)        (pre-training)              (instruction tuning)
          ↓                       ↓                            ↓
   ~13B token corpus    →   aibys_final.pt          →   model siap chat 🇮🇩
+                                 ↓
+                             Aibys2 (next iteration — SFT · tool calling · vision)
 ```
 
-**Current status:** Full pipeline functional. Proof-of-concept training completed (20K steps → coherent Indonesian text generation ✓). Full training pending compute resources.
+**Current status:** Full pipeline functional. Proof-of-concept training completed (20K steps → coherent Indonesian text generation ✓). Aibys2 actively in development. Full training pending compute resources.
+
+### Aibys AI Tools Suite
+
+> Local-first, privacy-preserving AI tools — all powered by Ollama, running fully on your machine.
+
+| | Repo | What it does |
+|--|------|-------------|
+| 📄 | [**aibys-research-summarizer**](https://github.com/Arlchoose-code/aibys-research-summarizer) | Turns PDF/TXT research papers into structured plain-language summaries, key results, limitations, follow-up questions, and exportable reports. |
+| 🏥 | [**aibys-medical-explainer**](https://github.com/Arlchoose-code/aibys-medical-explainer) | Explains medical reports from PDF/TXT/image uploads, highlights notable results, and saves JSON/CSV/Markdown history. |
+| ⚖️ | [**aibys-legal-analyzer**](https://github.com/Arlchoose-code/aibys-legal-analyzer) | Summarizes contracts, highlights risky clauses, scores risk, and saves local JSON/CSV/Markdown reports. |
+| 🧾 | [**aibys-invoice-extractor**](https://github.com/Arlchoose-code/aibys-invoice-extractor) | Extracts structured data from invoice/receipt PDFs and images. Export to CSV. Vision-powered, runs fully local. |
+
+---
+
+## 👁️ Computer Vision
+
+| | Repo | What it does |
+|--|------|-------------|
+| 🤖 | [**ArLface-Recognition**](https://github.com/Arlchoose-code/ArLface-Recognition) | Open-source face recognition system built with FastAPI and Python. Uses AuraFace (ArcFace) for embeddings — all application logic built from scratch. Real-time, OpenCV-powered. |
 
 ---
 
@@ -126,7 +151,8 @@ Assisted visitors exploring interactive installations on AI, the universe, and h
 
 **AI / ML & NLP**
 `PyTorch` `HuggingFace Transformers` `SentencePiece` `LoRA / PEFT` `Flash Attention 2`
-`GGUF · Ollama · llama.cpp` `Claude API` `MCP (Model Context Protocol)`
+`GGUF · Ollama · llama.cpp` `OpenCV` `ArcFace / AuraFace`
+`Claude API` `MCP (Model Context Protocol)`
 `Microsoft Azure AI` `Google Cloud Vertex AI` `Amazon Bedrock`
 
 **Systems & Backend**
@@ -134,7 +160,7 @@ Assisted visitors exploring interactive installations on AI, the universe, and h
 `FastAPI` `Gin` `Echo` `Laravel` `Express` `Hono`
 
 **Frontend**
-`React` `Next.js` `Vue` `Nuxt.js` `TypeScript` `Tailwind CSS`
+`React` `Next.js` `Vue` `Nuxt.js` `TypeScript` `Tailwind CSS` `Vanilla JS`
 
 **Databases**
 `PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite`
@@ -207,6 +233,7 @@ Assisted visitors exploring interactive installations on AI, the universe, and h
 - 💻 Built a 13B-token corpus pipeline on a laptop that couldn't finish the training run
 - 🏘️ Got a whole village to use a digital platform in one week — watched it die in one year
 - 🧠 Believes the most interesting problems in AI are not technical — they're linguistic and social
+- 👁️ Built a face recognition system from scratch because "just use a library" felt like cheating
 - ☕ Powered by questions that don't have Stack Overflow answers
 
 ---
@@ -246,6 +273,12 @@ Assisted visitors exploring interactive installations on AI, the universe, and h
     │          in global NLP? What would it take to change that?
     │
 [2026] ──── Open-sourced the full Aibys ecosystem.
+    │        Built Aibys2: next-gen LLM starter with tool calling & vision.
+    │        Shipped Aibys AI tools suite:
+    │          research summarizer · medical explainer ·
+    │          legal analyzer · invoice extractor
+    │        Built ArLface Recognition — open-source face recognition
+    │          from scratch with ArcFace embeddings.
     │        Certifications: Anthropic · Microsoft · IBM · Google · Amazon
     │
 [NEXT] ──── The questions accumulated.
