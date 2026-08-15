@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f766e,100:22d3ee&text=Syahril%20Haryono&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Language%20Technology%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Social%20Impact&descAlignY=56&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=270&color=0:020617,35:0f172a,68:0f766e,100:22d3ee&text=SYAHRIL%20HARYONO&fontColor=ffffff&fontSize=51&fontAlignY=34&desc=BUILDING%20LANGUAGE%20TECHNOLOGY%20FOR%20INDONESIA&descSize=17&descAlignY=55&animation=fadeIn&stroke=22d3ee&strokeWidth=1)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+Indonesian+language+intelligence+from+scratch;German+linguistics+%C3%97+AI+engineering+%C3%97+community;Preparing+for+a+fully-funded+Master%27s+abroad;Turning+unanswered+questions+into+graduate+research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&random=false&width=820&height=70&lines=%F0%9F%87%AE%F0%9F%87%A9+Building+Indonesian+language+intelligence+from+scratch;%F0%9F%8C%8D+German+linguistics+%C3%97+AI+engineering+%C3%97+community;%F0%9F%8E%93+Preparing+for+a+fully-funded+Master%27s+abroad;%F0%9F%94%AC+Turning+unanswered+questions+into+graduate+research)](https://git.io/typing-svg)
 
 ### Linguist · AI Engineer · Full-Stack Developer · Open-Source Builder
 
@@ -17,7 +17,23 @@ I build language technology for Indonesia—and study why technically sound syst
 ![Based in Indonesia](https://img.shields.io/badge/BASED_IN-Bogor%2C_Indonesia-0f766e?style=flat-square)
 ![Open to research](https://img.shields.io/badge/OPEN_TO-Research_Collaboration-22c55e?style=flat-square)
 
-<sub><a href="#research-north-star">Research</a> · <a href="#selected-work">Projects</a> · <a href="#experience">Experience</a> · <a href="#education--credentials">Education</a> · <a href="#origin-story">Story</a> · <a href="#lets-build-something-that-matters">Contact</a></sub>
+<sub><a href="#-graduate-scholarship-mission">MISSION</a>　·　<a href="#research-north-star">RESEARCH</a>　·　<a href="#selected-work">LAB</a>　·　<a href="#experience">EXPERIENCE</a>　·　<a href="#education--credentials">EDUCATION</a>　·　<a href="#origin-story">STORY</a>　·　<a href="#lets-build-something-that-matters">CONTACT</a></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ LIVE SIGNAL
+
+![Focus](https://img.shields.io/badge/FOCUS-Low--Resource_Indonesian_NLP-22d3ee?style=for-the-badge&labelColor=020617)
+![Mission](https://img.shields.io/badge/MISSION-Fully_Funded_Master's_Abroad-14b8a6?style=for-the-badge&labelColor=020617)
+![Build](https://img.shields.io/badge/BUILD-Aibys2_Indonesian_LLM-a78bfa?style=for-the-badge&labelColor=020617)
+
+![Research](https://img.shields.io/badge/STATUS-OPEN_TO_RESEARCH_MENTORS-22c55e?style=flat-square&labelColor=0f172a)
+![Compute](https://img.shields.io/badge/NEED-COMPUTE_PARTNERS-f59e0b?style=flat-square&labelColor=0f172a)
+![Collaboration](https://img.shields.io/badge/MODE-COLLABORATION_READY-ec4899?style=flat-square&labelColor=0f172a)
 
 </div>
 
@@ -71,6 +87,12 @@ building:       "Aibys2 — an Indonesian LLM stack from scratch"
 open_to:        "Research mentorship, collaboration, and compute partnerships"
 ```
 
+<div align="center">
+
+[![Scholarship journey](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=94A3B8&center=true&vCenter=true&width=850&lines=QUESTION+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+FAIL+%E2%86%92+LEARN+%E2%86%92+RESEARCH;ENGINEERING+EVIDENCE+%2B+LINGUISTIC+TRAINING+%2B+SOCIAL+CONTEXT;INDONESIA+%E2%86%92+THE+WORLD+%E2%86%92+KNOWLEDGE+BACK+TO+INDONESIA)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 ## 👋 The short version
@@ -86,6 +108,12 @@ Today, I am bringing those perspectives together in preparation for graduate res
 ---
 
 <a id="research-north-star"></a>
+<div align="center">
+
+![Research banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:0f766e,100:22d3ee&text=RESEARCH%20NORTH%20STAR&fontColor=ffffff&fontSize=25&animation=twinkling)
+
+</div>
+
 ## 🔭 Research North Star
 
 Two experiences left me with questions I still cannot stop thinking about.
@@ -120,6 +148,12 @@ SECURITY & ROBUSTNESS ─────────────┘
 ---
 
 <a id="selected-work"></a>
+<div align="center">
+
+![Lab banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:312e81,100:a78bfa&text=THE%20BUILD%20LAB&fontColor=ffffff&fontSize=25&animation=fadeIn)
+
+</div>
+
 ## 🧪 Selected Work
 
 ### Aibys · An open Indonesian language-model ecosystem
@@ -143,6 +177,22 @@ RAW TEXT  →  COLLECT & CLEAN  →  TOKENIZE  →  PRE-TRAIN  →  FINE-TUNE  �
 
 **Status:** The end-to-end pipeline is functional and proof-of-concept training produced coherent Indonesian text. Full-scale training is currently compute-constrained—one reason I am actively seeking academic and research collaboration.
 
+<div align="center">
+
+### ✦ PROJECT SIGNALS ✦
+
+<a href="https://github.com/Arlchoose-code/Aibys2"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arlchoose-code&repo=Aibys2&theme=github_dark&hide_border=true&title_color=22d3ee&icon_color=14b8a6" alt="Aibys2 repository card" /></a>
+<a href="https://github.com/Arlchoose-code/Indonesian-LLM-Starter"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arlchoose-code&repo=Indonesian-LLM-Starter&theme=github_dark&hide_border=true&title_color=22d3ee&icon_color=14b8a6" alt="Indonesian LLM Starter repository card" /></a>
+
+<a href="https://github.com/Arlchoose-code/Aibys-Data-Collector"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arlchoose-code&repo=Aibys-Data-Collector&theme=github_dark&hide_border=true&title_color=22d3ee&icon_color=14b8a6" alt="Aibys Data Collector repository card" /></a>
+<a href="https://github.com/Arlchoose-code/ArLface-Recognition"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arlchoose-code&repo=ArLface-Recognition&theme=github_dark&hide_border=true&title_color=22d3ee&icon_color=14b8a6" alt="ArLface Recognition repository card" /></a>
+
+![Corpus](https://img.shields.io/badge/CORPUS_PIPELINE-~13B_TOKENS-06b6d4?style=for-the-badge&labelColor=0f172a)
+![Tokenizer](https://img.shields.io/badge/TOKENIZER-32K_BPE-8b5cf6?style=for-the-badge&labelColor=0f172a)
+![Training](https://img.shields.io/badge/POC_TRAINING-20K_STEPS-10b981?style=for-the-badge&labelColor=0f172a)
+
+</div>
+
 ### Local-first AI tools
 
 | Repository | Purpose | Principles |
@@ -165,6 +215,12 @@ RAW TEXT  →  COLLECT & CLEAN  →  TOKENIZE  →  PRE-TRAIN  →  FINE-TUNE  �
 ---
 
 <a id="experience"></a>
+<div align="center">
+
+![Experience banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:164e63,100:06b6d4&text=EXPERIENCE%20%26%20IMPACT&fontColor=ffffff&fontSize=25&animation=twinkling)
+
+</div>
+
 ## 💼 Experience
 
 ### Professional snapshot
@@ -216,6 +272,12 @@ RAW TEXT  →  COLLECT & CLEAN  →  TOKENIZE  →  PRE-TRAIN  →  FINE-TUNE  �
 ---
 
 <a id="education--credentials"></a>
+<div align="center">
+
+![Education banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:14532d,100:22c55e&text=EDUCATION%20%26%20CREDENTIALS&fontColor=ffffff&fontSize=25&animation=fadeIn)
+
+</div>
+
 ## 🏫 Education & Credentials
 
 ### Universitas Negeri Jakarta · 2022–2027
@@ -257,18 +319,9 @@ Credential IDs and verification details are available on [my LinkedIn profile](h
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-111827?style=for-the-badge&logo=huggingface)
-![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go)
-![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+[![Technology icons](https://skillicons.dev/icons?i=python,pytorch,go,rust,php,ts,js,nextjs,react,vue,nuxt,fastapi,laravel,nodejs,bun,postgres,mysql,mongodb,redis,docker,git,linux,gcp,azure&perline=12&theme=dark)](https://skillicons.dev)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=400&color=14B8A6&center=true&vCenter=true&width=820&lines=PYTORCH+%E2%80%A2+TRANSFORMERS+%E2%80%A2+LORA+%E2%80%A2+OLLAMA+%E2%80%A2+OPENCV;PYTHON+%E2%80%A2+GO+%E2%80%A2+RUST+%E2%80%A2+FASTAPI+%E2%80%A2+GIN+%E2%80%A2+LARAVEL;NEXT.JS+%E2%80%A2+REACT+%E2%80%A2+VUE+%E2%80%A2+TYPESCRIPT+%E2%80%A2+TAILWIND;POSTGRESQL+%E2%80%A2+MYSQL+%E2%80%A2+MONGODB+%E2%80%A2+REDIS+%E2%80%A2+SQLITE)](https://git.io/typing-svg)
 
 </div>
 
@@ -290,6 +343,12 @@ Credential IDs and verification details are available on [my LinkedIn profile](h
 ---
 
 <a id="origin-story"></a>
+<div align="center">
+
+![Story banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:7c2d12,100:f59e0b&text=THE%20ORIGIN%20STORY&fontColor=ffffff&fontSize=25&animation=twinkling)
+
+</div>
+
 ## 🗺️ Origin Story
 
 <details open>
@@ -335,6 +394,16 @@ NEXT  ── Find the academic environment, mentorship, and collaborators needed
 ## 📊 Open-Source Activity
 
 <div align="center">
+
+[![Coding activity](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2100&pause=600&color=22D3EE&center=true&vCenter=true&width=820&lines=OPEN+SOURCE+IS+MY+PUBLIC+RESEARCH+NOTEBOOK;EVERY+COMMIT+IS+AN+EXPERIMENT+MADE+VISIBLE;BUILDING+IN+PUBLIC+%E2%80%A2+LEARNING+IN+PUBLIC+%E2%80%A2+GROWING+IN+PUBLIC)](https://git.io/typing-svg)
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Arlchoose-code&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arlchoose-code&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arlchoose-code&theme=github" />
+  <img width="98%" alt="Syahril Haryono's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arlchoose-code&theme=github_dark" />
+</picture>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arlchoose-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=14b8a6&text_color=cbd5e1&rank_icon=github" alt="Syahril's GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlchoose-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1&langs_count=8" alt="Most used languages" />
