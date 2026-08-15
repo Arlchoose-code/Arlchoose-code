@@ -1,6 +1,6 @@
 <div align="center">
 
-![Syahril Haryono — Language Technology and AI Engineering](./assets/hero.svg)
+![Syahril Haryono — Language Technology and AI Engineering](./hero.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=600&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Indonesian+NLP+%E2%80%A2+Language+Technology+%E2%80%A2+Human-Centered+AI;German+Linguistics+%C3%97+AI+Engineering+%C3%97+Community;From+unanswered+questions+to+graduate+research;Currently+fighting+for+a+fully+funded+Master%27s+abroad)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 <a id="mission"></a>
 ## 01 // Graduate mission
 
-![Animated graduate scholarship mission](./assets/mission-terminal.svg)
+![Animated graduate scholarship mission](./mission-terminal.svg)
 
 I am taking a deliberate career break to prepare for a **fully funded Master's degree abroad**. My goal is to investigate Indonesian language technology in an academic environment where engineering, linguistics, and social context are treated as one problem—not three separate ones.
 
@@ -35,7 +35,7 @@ I am taking a deliberate career break to prepare for a **fully funded Master's d
 <a id="research"></a>
 ## 02 // Research north star
 
-![Animated research map](./assets/research-map.svg)
+![Animated research map](./research-map.svg)
 
 ### The questions I refuse to stop asking
 
@@ -56,7 +56,7 @@ A working village platform, training for 20–50 residents, and later low adopti
 
 ### Aibys · Indonesian language intelligence from scratch
 
-![Animated Aibys pipeline](./assets/aibys-pipeline.svg)
+![Animated Aibys pipeline](./aibys-pipeline.svg)
 
 | STAGE | OPEN-SOURCE EVIDENCE |
 |---|---|
@@ -251,6 +251,6 @@ I am open to **prospective supervisors, scholarship communities, research labs, 
 [![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/syahril-haryono/)
 [![Explore the portfolio](https://img.shields.io/badge/EXPLORE_THE_PORTFOLIO-ARLAB.MY.ID-000000?style=for-the-badge&logo=safari&logoColor=22d3ee)](https://www.arlab.my.id)
 
-![Animated closing banner](./assets/footer.svg)
+![Animated closing banner](./footer.svg)
 
 </div>
