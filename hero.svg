@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Syahril Haryono animated profile header">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#000000"/><stop offset=".7" stop-color="#080d14"/><stop offset="1" stop-color="#062d35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#14b8a6"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#164e63" stroke-width=".6" opacity=".32"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="screen"><rect x="20" y="20" width="960" height="300" rx="20"/></clipPath>
+    <style>
+      .mono{font-family:'JetBrains Mono','Cascadia Code',monospace}.sans{font-family:'Segoe UI',Arial,sans-serif}
+      .scan{animation:scan 5s linear infinite}.pulse{animation:pulse 2.4s ease-in-out infinite}.p2{animation-delay:.7s}.p3{animation-delay:1.4s}
+      .dash{stroke-dasharray:8 12;animation:dash 9s linear infinite}.cursor{animation:blink 1s steps(2,end) infinite}
+      .fade1{animation:fade 8s ease-in-out infinite}.fade2{animation:fade 8s 2s ease-in-out infinite}.fade3{animation:fade 8s 4s ease-in-out infinite}
+      @keyframes scan{from{transform:translateY(-30px)}to{transform:translateY(390px)}}
+      @keyframes pulse{0%,100%{opacity:.35;transform:scale(.8)}50%{opacity:1;transform:scale(1.18)}}
+      @keyframes dash{to{stroke-dashoffset:-200}}
+      @keyframes blink{50%{opacity:0}}
+      @keyframes fade{0%,18%,100%{opacity:.2}28%,58%{opacity:1}68%{opacity:.2}}
+    </style>
+  </defs>
+  <rect width="1000" height="340" rx="24" fill="url(#bg)"/>
+  <rect x="12" y="12" width="976" height="316" rx="22" fill="none" stroke="#164e63"/>
+  <rect x="20" y="20" width="960" height="300" rx="20" fill="url(#grid)"/>
+  <g clip-path="url(#screen)" opacity=".75"><rect class="scan" x="20" y="-20" width="960" height="2" fill="#22d3ee" filter="url(#glow)"/></g>
+  <g fill="#64748b"><circle cx="47" cy="43" r="5"/><circle cx="65" cy="43" r="5"/><circle cx="83" cy="43" r="5"/></g>
+  <text x="110" y="49" class="mono" fill="#64748b" font-size="12">ARLAB // RESEARCH PROFILE</text>
+  <path d="M690 94C760 54 868 74 915 141S898 269 816 278" fill="none" stroke="url(#accent)" stroke-width="2" class="dash" opacity=".8"/>
+  <g transform="translate(822 177)" filter="url(#glow)">
+    <circle r="72" fill="#06141b" stroke="#164e63"/><circle r="46" fill="none" stroke="#0e7490" stroke-dasharray="5 8" class="dash"/>
+    <circle class="pulse" cx="0" cy="-72" r="6" fill="#22d3ee"/><circle class="pulse p2" cx="63" cy="35" r="6" fill="#14b8a6"/><circle class="pulse p3" cx="-63" cy="35" r="6" fill="#a78bfa"/>
+    <text x="0" y="-7" text-anchor="middle" class="mono" fill="#e6edf3" font-size="13">LANGUAGE</text>
+    <text x="0" y="14" text-anchor="middle" class="mono" fill="#22d3ee" font-size="16" font-weight="700">× AI</text>
+  </g>
+  <text x="72" y="115" class="mono" fill="#22d3ee" font-size="14">HELLO, I AM</text>
+  <text x="68" y="174" class="sans" fill="#f8fafc" font-size="52" font-weight="800" letter-spacing="1">SYAHRIL HARYONO</text>
+  <rect x="70" y="193" width="555" height="3" rx="2" fill="url(#accent)"/>
+  <text x="72" y="230" class="mono fade1" fill="#cbd5e1" font-size="16">Indonesian NLP · Language Technology · Social Impact</text>
+  <text x="72" y="258" class="mono fade2" fill="#cbd5e1" font-size="16">German Linguistics × AI Engineering</text>
+  <text x="72" y="286" class="mono fade3" fill="#cbd5e1" font-size="16">Seeking a fully funded Master's abroad</text>
+  <text x="72" y="308" class="mono" fill="#22d3ee" font-size="13">syahril@research:~$ build what matters</text>
+  <rect x="407" y="296" width="8" height="15" fill="#22d3ee" class="cursor"/>
+</svg>

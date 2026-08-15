@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-label="Animated research north star map">
+  <defs>
+    <linearGradient id="rbg" x2="1" y2="1"><stop stop-color="#000"/><stop offset="1" stop-color="#07151d"/></linearGradient>
+    <filter id="rg"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5 0 10z" fill="#22d3ee"/></marker>
+    <style>
+      .m{font-family:'JetBrains Mono','Cascadia Code',monospace}.s{font-family:'Segoe UI',Arial,sans-serif}
+      .flow{stroke-dasharray:8 12;animation:flow 5s linear infinite}.pulse{transform-box:fill-box;transform-origin:center;animation:p 2s ease-in-out infinite}.d2{animation-delay:.65s}.d3{animation-delay:1.3s}.orbit{stroke-dasharray:3 8;animation:flow 10s linear infinite}
+      @keyframes flow{to{stroke-dashoffset:-120}}@keyframes p{0%,100%{opacity:.45;transform:scale(.88)}50%{opacity:1;transform:scale(1.08)}}
+    </style>
+  </defs>
+  <rect width="1000" height="310" rx="22" fill="url(#rbg)" stroke="#164e63"/>
+  <text x="44" y="43" class="m" fill="#22d3ee" font-size="13">// RESEARCH NORTH STAR</text>
+  <text x="44" y="70" class="s" fill="#f8fafc" font-size="24" font-weight="700">Three lenses. One mission.</text>
+  <g class="pulse"><rect x="45" y="102" width="245" height="48" rx="12" fill="#0b1118" stroke="#0e7490"/><circle cx="69" cy="126" r="7" fill="#22d3ee"/><text x="88" y="131" class="m" fill="#cbd5e1" font-size="13">LANGUAGE REPRESENTATION</text></g>
+  <g class="pulse d2"><rect x="45" y="169" width="245" height="48" rx="12" fill="#0b1118" stroke="#0f766e"/><circle cx="69" cy="193" r="7" fill="#14b8a6"/><text x="88" y="198" class="m" fill="#cbd5e1" font-size="13">COMMUNITY ADOPTION</text></g>
+  <g class="pulse d3"><rect x="45" y="236" width="245" height="48" rx="12" fill="#0b1118" stroke="#6d28d9"/><circle cx="69" cy="260" r="7" fill="#a78bfa"/><text x="88" y="265" class="m" fill="#cbd5e1" font-size="13">ROBUST &amp; RESPONSIBLE AI</text></g>
+  <path d="M290 126C360 126 380 142 421 151" fill="none" stroke="#22d3ee" stroke-width="2" marker-end="url(#arrow)" class="flow"/>
+  <path d="M290 193H421" fill="none" stroke="#14b8a6" stroke-width="2" marker-end="url(#arrow)" class="flow"/>
+  <path d="M290 260C360 260 380 242 421 232" fill="none" stroke="#a78bfa" stroke-width="2" marker-end="url(#arrow)" class="flow"/>
+  <g transform="translate(515 192)" filter="url(#rg)"><circle r="83" fill="#06141b" stroke="#164e63"/><circle r="65" fill="none" stroke="#22d3ee" class="orbit"/><text y="-12" text-anchor="middle" class="m" fill="#f8fafc" font-size="15" font-weight="700">GRADUATE</text><text y="11" text-anchor="middle" class="m" fill="#22d3ee" font-size="17" font-weight="700">RESEARCH</text><text y="34" text-anchor="middle" class="m" fill="#94a3b8" font-size="11">2027 →</text></g>
+  <path d="M598 192H704" fill="none" stroke="#22d3ee" stroke-width="2" marker-end="url(#arrow)" class="flow"/>
+  <rect x="720" y="112" width="235" height="160" rx="18" fill="#080d14" stroke="#0e7490"/>
+  <text x="746" y="148" class="m" fill="#22d3ee" font-size="12">TARGET OUTCOME</text>
+  <text x="746" y="181" class="s" fill="#f8fafc" font-size="18" font-weight="700">Inclusive language</text><text x="746" y="205" class="s" fill="#f8fafc" font-size="18" font-weight="700">technology for</text><text x="746" y="229" class="s" fill="#f8fafc" font-size="18" font-weight="700">Indonesia.</text>
+  <circle cx="928" cy="244" r="5" fill="#22d3ee" class="pulse"/>
+</svg>

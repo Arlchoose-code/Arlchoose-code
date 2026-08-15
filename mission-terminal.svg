@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Animated graduate scholarship mission terminal">
+  <defs>
+    <linearGradient id="tbg" x2="1" y2="1"><stop stop-color="#000"/><stop offset="1" stop-color="#07141c"/></linearGradient>
+    <style>
+      .m{font-family:'JetBrains Mono','Cascadia Code',monospace}.line1{animation:f 10s infinite}.line2{animation:f 10s 1.2s infinite;opacity:0}.line3{animation:f 10s 2.4s infinite;opacity:0}.line4{animation:f 10s 3.6s infinite;opacity:0}.line5{animation:f 10s 4.8s infinite;opacity:0}.cursor{animation:b 1s steps(2,end) infinite}
+      @keyframes f{0%,8%{opacity:0;transform:translateY(5px)}15%,88%{opacity:1;transform:translateY(0)}96%,100%{opacity:0}}@keyframes b{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1000" height="280" rx="20" fill="url(#tbg)" stroke="#164e63"/>
+  <rect x="1" y="1" width="998" height="48" rx="19" fill="#0d1117"/><circle cx="28" cy="25" r="6" fill="#ef4444"/><circle cx="49" cy="25" r="6" fill="#f59e0b"/><circle cx="70" cy="25" r="6" fill="#22c55e"/>
+  <text x="500" y="30" text-anchor="middle" class="m" fill="#64748b" font-size="12">syahril@arlab — scholarship-mission</text>
+  <text x="40" y="82" class="m line1" fill="#22d3ee" font-size="14">$ cat mission.yaml</text>
+  <text x="58" y="118" class="m line2" fill="#94a3b8" font-size="14">status:   <tspan fill="#22c55e">FIGHTING FOR SCHOLARSHIP</tspan></text>
+  <text x="58" y="151" class="m line3" fill="#94a3b8" font-size="14">target:   <tspan fill="#f8fafc">fully funded Master's abroad</tspan></text>
+  <text x="58" y="184" class="m line4" fill="#94a3b8" font-size="14">focus:    <tspan fill="#f8fafc">Indonesian NLP × computational sociolinguistics</tspan></text>
+  <text x="58" y="217" class="m line5" fill="#94a3b8" font-size="14">open_to:  <tspan fill="#f8fafc">supervisors · research labs · compute partners</tspan></text>
+  <text x="40" y="254" class="m" fill="#22d3ee" font-size="14">$</text><rect x="59" y="241" width="9" height="17" fill="#22d3ee" class="cursor"/>
+</svg>

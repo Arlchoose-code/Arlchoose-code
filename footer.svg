@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Animated profile footer">
+  <defs><linearGradient id="fbg" x2="1"><stop stop-color="#000"/><stop offset=".5" stop-color="#07141c"/><stop offset="1" stop-color="#000"/></linearGradient><linearGradient id="fa"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#14b8a6"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><style>.m{font-family:'JetBrains Mono','Cascadia Code',monospace}.dash{stroke-dasharray:10 15;animation:d 6s linear infinite}.p{animation:p 2s ease-in-out infinite}@keyframes d{to{stroke-dashoffset:-150}}@keyframes p{50%{opacity:.3}}</style></defs>
+  <rect width="1000" height="170" rx="20" fill="url(#fbg)" stroke="#164e63"/><path d="M80 34H920" stroke="url(#fa)" stroke-width="2" class="dash"/>
+  <text x="500" y="78" text-anchor="middle" class="m" fill="#f8fafc" font-size="17">BUILD WITH CURIOSITY. RESEARCH WITH PURPOSE.</text>
+  <text x="500" y="111" text-anchor="middle" class="m" fill="#22d3ee" font-size="13">BOGOR, INDONESIA  ·  OPEN TO THE WORLD</text>
+  <circle cx="463" cy="140" r="4" fill="#22d3ee" class="p"/><circle cx="483" cy="140" r="4" fill="#14b8a6" class="p"/><circle cx="503" cy="140" r="4" fill="#a78bfa" class="p"/><circle cx="523" cy="140" r="4" fill="#14b8a6" class="p"/><circle cx="543" cy="140" r="4" fill="#22d3ee" class="p"/>
+</svg>
