@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=270&color=0:020617,35:0f172a,68:0f766e,100:22d3ee&text=SYAHRIL%20HARYONO&fontColor=ffffff&fontSize=51&fontAlignY=34&desc=BUILDING%20LANGUAGE%20TECHNOLOGY%20FOR%20INDONESIA&descSize=17&descAlignY=55&animation=fadeIn&stroke=22d3ee&strokeWidth=1)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,55:0d1117,82:111827,100:0891b2&text=SYAHRIL%20HARYONO&fontColor=ffffff&fontSize=51&fontAlignY=34&desc=BUILDING%20LANGUAGE%20TECHNOLOGY%20FOR%20INDONESIA&descSize=17&descAlignY=55&animation=fadeIn&stroke=22d3ee&strokeWidth=1)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&random=false&width=820&height=70&lines=%F0%9F%87%AE%F0%9F%87%A9+Building+Indonesian+language+intelligence+from+scratch;%F0%9F%8C%8D+German+linguistics+%C3%97+AI+engineering+%C3%97+community;%F0%9F%8E%93+Preparing+for+a+fully-funded+Master%27s+abroad;%F0%9F%94%AC+Turning+unanswered+questions+into+graduate+research)](https://git.io/typing-svg)
 
@@ -34,6 +34,10 @@ I build language technology for Indonesia—and study why technically sound syst
 ![Research](https://img.shields.io/badge/STATUS-OPEN_TO_RESEARCH_MENTORS-22c55e?style=flat-square&labelColor=0f172a)
 ![Compute](https://img.shields.io/badge/NEED-COMPUTE_PARTNERS-f59e0b?style=flat-square&labelColor=0f172a)
 ![Collaboration](https://img.shields.io/badge/MODE-COLLABORATION_READY-ec4899?style=flat-square&labelColor=0f172a)
+
+<br/>
+
+[![Animated GitHub terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Arlchoose-code&theme=tokyonight&headerStyle=mac&hostname=arlab.my.id&typingSpeed=55)](https://github.com/Arlchoose-code)
 
 </div>
 
@@ -108,12 +112,6 @@ Today, I am bringing those perspectives together in preparation for graduate res
 ---
 
 <a id="research-north-star"></a>
-<div align="center">
-
-![Research banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:0f766e,100:22d3ee&text=RESEARCH%20NORTH%20STAR&fontColor=ffffff&fontSize=25&animation=twinkling)
-
-</div>
-
 ## 🔭 Research North Star
 
 Two experiences left me with questions I still cannot stop thinking about.
@@ -148,12 +146,6 @@ SECURITY & ROBUSTNESS ─────────────┘
 ---
 
 <a id="selected-work"></a>
-<div align="center">
-
-![Lab banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:312e81,100:a78bfa&text=THE%20BUILD%20LAB&fontColor=ffffff&fontSize=25&animation=fadeIn)
-
-</div>
-
 ## 🧪 Selected Work
 
 ### Aibys · An open Indonesian language-model ecosystem
@@ -181,11 +173,11 @@ RAW TEXT  →  COLLECT & CLEAN  →  TOKENIZE  →  PRE-TRAIN  →  FINE-TUNE  �
 
 ### ✦ PROJECT SIGNALS ✦
 
-<a href="https://github.com/Arlchoose-code/Aibys2"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arlchoose-code&repo=Aibys2&theme=github_dark&hide_border=true&title_color=22d3ee&icon_color=14b8a6" alt="Aibys2 repository card" /></a>
-<a href="https://github.com/Arlchoose-code/Indonesian-LLM-Starter"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arlchoose-code&repo=Indonesian-LLM-Starter&theme=github_dark&hide_border=true&title_color=22d3ee&icon_color=14b8a6" alt="Indonesian LLM Starter repository card" /></a>
+[![Aibys2](https://img.shields.io/badge/⚡_AIBYS2-NEXT--GEN_LLM_STACK-0d1117?style=for-the-badge&labelColor=000000&color=0e7490)](https://github.com/Arlchoose-code/Aibys2)
+[![LLM Starter](https://img.shields.io/badge/◈_LLM_STARTER-PYTORCH_FROM_SCRATCH-0d1117?style=for-the-badge&labelColor=000000&color=0f766e)](https://github.com/Arlchoose-code/Indonesian-LLM-Starter)
 
-<a href="https://github.com/Arlchoose-code/Aibys-Data-Collector"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arlchoose-code&repo=Aibys-Data-Collector&theme=github_dark&hide_border=true&title_color=22d3ee&icon_color=14b8a6" alt="Aibys Data Collector repository card" /></a>
-<a href="https://github.com/Arlchoose-code/ArLface-Recognition"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arlchoose-code&repo=ArLface-Recognition&theme=github_dark&hide_border=true&title_color=22d3ee&icon_color=14b8a6" alt="ArLface Recognition repository card" /></a>
+[![Data Collector](https://img.shields.io/badge/◆_DATA_COLLECTOR-INDONESIAN_CORPUS-0d1117?style=for-the-badge&labelColor=000000&color=4338ca)](https://github.com/Arlchoose-code/Aibys-Data-Collector)
+[![Face Recognition](https://img.shields.io/badge/◉_FACE_RECOGNITION-REAL--TIME_VISION-0d1117?style=for-the-badge&labelColor=000000&color=7c3aed)](https://github.com/Arlchoose-code/ArLface-Recognition)
 
 ![Corpus](https://img.shields.io/badge/CORPUS_PIPELINE-~13B_TOKENS-06b6d4?style=for-the-badge&labelColor=0f172a)
 ![Tokenizer](https://img.shields.io/badge/TOKENIZER-32K_BPE-8b5cf6?style=for-the-badge&labelColor=0f172a)
@@ -215,12 +207,6 @@ RAW TEXT  →  COLLECT & CLEAN  →  TOKENIZE  →  PRE-TRAIN  →  FINE-TUNE  �
 ---
 
 <a id="experience"></a>
-<div align="center">
-
-![Experience banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:164e63,100:06b6d4&text=EXPERIENCE%20%26%20IMPACT&fontColor=ffffff&fontSize=25&animation=twinkling)
-
-</div>
-
 ## 💼 Experience
 
 ### Professional snapshot
@@ -272,12 +258,6 @@ RAW TEXT  →  COLLECT & CLEAN  →  TOKENIZE  →  PRE-TRAIN  →  FINE-TUNE  �
 ---
 
 <a id="education--credentials"></a>
-<div align="center">
-
-![Education banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:14532d,100:22c55e&text=EDUCATION%20%26%20CREDENTIALS&fontColor=ffffff&fontSize=25&animation=fadeIn)
-
-</div>
-
 ## 🏫 Education & Credentials
 
 ### Universitas Negeri Jakarta · 2022–2027
@@ -343,12 +323,6 @@ Credential IDs and verification details are available on [my LinkedIn profile](h
 ---
 
 <a id="origin-story"></a>
-<div align="center">
-
-![Story banner](https://capsule-render.vercel.app/api?type=rect&height=92&color=0:020617,50:7c2d12,100:f59e0b&text=THE%20ORIGIN%20STORY&fontColor=ffffff&fontSize=25&animation=twinkling)
-
-</div>
-
 ## 🗺️ Origin Story
 
 <details open>
@@ -397,24 +371,28 @@ NEXT  ── Find the academic environment, mentorship, and collaborators needed
 
 [![Coding activity](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2100&pause=600&color=22D3EE&center=true&vCenter=true&width=820&lines=OPEN+SOURCE+IS+MY+PUBLIC+RESEARCH+NOTEBOOK;EVERY+COMMIT+IS+AN+EXPERIMENT+MADE+VISIBLE;BUILDING+IN+PUBLIC+%E2%80%A2+LEARNING+IN+PUBLIC+%E2%80%A2+GROWING+IN+PUBLIC)](https://git.io/typing-svg)
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Arlchoose-code&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6)
+<img width="98%" alt="Syahril Haryono's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arlchoose-code&theme=github_dark" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arlchoose-code&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arlchoose-code&theme=github" />
-  <img width="98%" alt="Syahril Haryono's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arlchoose-code&theme=github_dark" />
-</picture>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arlchoose-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=14b8a6&text_color=cbd5e1&rank_icon=github" alt="Syahril's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlchoose-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1&langs_count=8" alt="Most used languages" />
-
-![GitHub streak](https://streak-stats.demolab.com?user=Arlchoose-code&theme=transparent&hide_border=true&ring=22D3EE&fire=14B8A6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B)
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arlchoose-code&theme=github_dark" alt="GitHub statistics" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arlchoose-code&theme=github_dark" alt="Repositories per language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arlchoose-code&theme=github_dark&utcOffset=7" alt="Productive coding time" />
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arlchoose-code&bg_color=0d1117&color=cbd5e1&line=22d3ee&point=14b8a6&area=true&hide_border=true)
 
 ### 🐍 Contribution journey
 
-![GitHub contribution snake](https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/github-contribution-grid-snake-dark.svg)
+<!-- Generated daily by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/pacman-contribution-graph-dark.svg" />
+  <img width="98%" alt="Pac-Man contribution animation" src="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/pacman-contribution-graph-dark.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/github-contribution-grid-snake.svg" />
+  <img width="98%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -439,6 +417,6 @@ I am open to conversations with **prospective supervisors, scholarship communiti
 
 **— Syahril Haryono · Bogor, Indonesia 🇮🇩**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,55:0f766e,100:020617)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891b2,30:111827,70:0d1117,100:000000)
 
 </div>
