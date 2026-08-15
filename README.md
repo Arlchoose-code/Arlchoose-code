@@ -1,422 +1,256 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,55:0d1117,82:111827,100:0891b2&text=SYAHRIL%20HARYONO&fontColor=ffffff&fontSize=51&fontAlignY=34&desc=BUILDING%20LANGUAGE%20TECHNOLOGY%20FOR%20INDONESIA&descSize=17&descAlignY=55&animation=fadeIn&stroke=22d3ee&strokeWidth=1)
+![Syahril Haryono — Language Technology and AI Engineering](./assets/hero.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&random=false&width=820&height=70&lines=%F0%9F%87%AE%F0%9F%87%A9+Building+Indonesian+language+intelligence+from+scratch;%F0%9F%8C%8D+German+linguistics+%C3%97+AI+engineering+%C3%97+community;%F0%9F%8E%93+Preparing+for+a+fully-funded+Master%27s+abroad;%F0%9F%94%AC+Turning+unanswered+questions+into+graduate+research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=600&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Indonesian+NLP+%E2%80%A2+Language+Technology+%E2%80%A2+Human-Centered+AI;German+Linguistics+%C3%97+AI+Engineering+%C3%97+Community;From+unanswered+questions+to+graduate+research;Currently+fighting+for+a+fully+funded+Master%27s+abroad)](https://git.io/typing-svg)
 
-### Linguist · AI Engineer · Full-Stack Developer · Open-Source Builder
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ARLAB.MY.ID-000000?style=for-the-badge&logo=safari&logoColor=22d3ee)](https://www.arlab.my.id)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-SYAHRIL_HARYONO-000000?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/syahril-haryono/)
+[![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-SYHRLHYN-000000?style=for-the-badge&logo=huggingface&logoColor=22d3ee)](https://huggingface.co/syhrlhyn)
+[![Profile views](https://komarev.com/ghpvc/?username=Arlchoose-code&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS)](https://github.com/Arlchoose-code)
 
-I build language technology for Indonesia—and study why technically sound systems<br/>still fail the people they were meant to serve.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-arlab.my.id-0f172a?style=for-the-badge&logo=safari&logoColor=22d3ee)](https://www.arlab.my.id)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Syahril_Haryono-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syahril-haryono/)
-[![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-syhrlhyn-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)](https://huggingface.co/syhrlhyn)
-[![GitHub](https://img.shields.io/badge/GITHUB-Arlchoose--code-181717?style=for-the-badge&logo=github)](https://github.com/Arlchoose-code)
-
-![Profile views](https://komarev.com/ghpvc/?username=Arlchoose-code&style=flat-square&color=0891b2&label=PROFILE+VIEWS)
-![Based in Indonesia](https://img.shields.io/badge/BASED_IN-Bogor%2C_Indonesia-0f766e?style=flat-square)
-![Open to research](https://img.shields.io/badge/OPEN_TO-Research_Collaboration-22c55e?style=flat-square)
-
-<sub><a href="#-graduate-scholarship-mission">MISSION</a>　·　<a href="#research-north-star">RESEARCH</a>　·　<a href="#selected-work">LAB</a>　·　<a href="#experience">EXPERIENCE</a>　·　<a href="#education--credentials">EDUCATION</a>　·　<a href="#origin-story">STORY</a>　·　<a href="#lets-build-something-that-matters">CONTACT</a></sub>
+<sub><a href="#mission">MISSION</a>　·　<a href="#research">RESEARCH</a>　·　<a href="#lab">BUILD LAB</a>　·　<a href="#impact">IMPACT</a>　·　<a href="#journey">JOURNEY</a>　·　<a href="#contact">CONTACT</a></sub>
 
 </div>
 
 ---
+
+<a id="mission"></a>
+## 01 // Graduate mission
+
+![Animated graduate scholarship mission](./assets/mission-terminal.svg)
+
+I am taking a deliberate career break to prepare for a **fully funded Master's degree abroad**. My goal is to investigate Indonesian language technology in an academic environment where engineering, linguistics, and social context are treated as one problem—not three separate ones.
+
+| SIGNAL | EVIDENCE |
+|---|---|
+| **Academic lens** | German Language Teacher Education · linguistics · pedagogy · cross-cultural communication |
+| **Engineering lens** | Full-stack and backend work across Indonesia, Singapore, Italy, Belgium, and Europe |
+| **Research prototype** | Open Indonesian LLM pipeline: corpus → tokenizer → pre-training → fine-tuning |
+| **Social grounding** | Rural digital-literacy work and first-hand experience with technology-adoption failure |
+| **Next environment** | Master's program, research lab, supervisor, scholarship, and compute collaboration |
+
+---
+
+<a id="research"></a>
+## 02 // Research north star
+
+![Animated research map](./assets/research-map.svg)
+
+### The questions I refuse to stop asking
+
+> **Why is Bahasa Indonesia still underrepresented in the global NLP landscape—and what does it take to close that gap properly?**
+
+Building Aibys from scratch made the representation gap tangible: data quality, tokenization, compute, evaluation, and cultural context all matter.
+
+> **Why do communities with genuine needs still reject technology built “for” them?**
+
+A working village platform, training for 20–50 residents, and later low adoption taught me that technical delivery is not the same as meaningful adoption. Is the barrier language, interface, culture, daily relevance—or the way we define digital readiness?
+
+`Indonesian NLP` · `Low-resource languages` · `Computational sociolinguistics` · `Human-centered AI` · `Digital inclusion` · `Responsible AI`
+
+---
+
+<a id="lab"></a>
+## 03 // The build lab
+
+### Aibys · Indonesian language intelligence from scratch
+
+![Animated Aibys pipeline](./assets/aibys-pipeline.svg)
+
+| STAGE | OPEN-SOURCE EVIDENCE |
+|---|---|
+| **Collect** | [Aibys Data Collector](https://github.com/Arlchoose-code/Aibys-Data-Collector) · streaming preparation for 50GB+ corpora · estimated ~13B-token pipeline |
+| **Tokenize** | [Aibys Tokenizer](https://huggingface.co/syhrlhyn/aibys-tokenizer) · 32K BPE vocabulary · trained on 10M sentences |
+| **Pre-train** | [Indonesian LLM Starter](https://github.com/Arlchoose-code/Indonesian-LLM-Starter) · decoder-only Transformer built with PyTorch |
+| **Fine-tune** | [Indonesian LLM Finetune](https://github.com/Arlchoose-code/Indonesian-LLM-Finetune) · LoRA instruction-tuning pipeline |
+| **Iterate** | [Aibys2](https://github.com/Arlchoose-code/Aibys2) · checkpoints, SFT scaffolding, tool calling, and vision-data support |
 
 <div align="center">
 
-### ⚡ LIVE SIGNAL
-
-![Focus](https://img.shields.io/badge/FOCUS-Low--Resource_Indonesian_NLP-22d3ee?style=for-the-badge&labelColor=020617)
-![Mission](https://img.shields.io/badge/MISSION-Fully_Funded_Master's_Abroad-14b8a6?style=for-the-badge&labelColor=020617)
-![Build](https://img.shields.io/badge/BUILD-Aibys2_Indonesian_LLM-a78bfa?style=for-the-badge&labelColor=020617)
-
-![Research](https://img.shields.io/badge/STATUS-OPEN_TO_RESEARCH_MENTORS-22c55e?style=flat-square&labelColor=0f172a)
-![Compute](https://img.shields.io/badge/NEED-COMPUTE_PARTNERS-f59e0b?style=flat-square&labelColor=0f172a)
-![Collaboration](https://img.shields.io/badge/MODE-COLLABORATION_READY-ec4899?style=flat-square&labelColor=0f172a)
-
-<br/>
-
-[![Animated GitHub terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Arlchoose-code&theme=tokyonight&headerStyle=mac&hostname=arlab.my.id&typingSpeed=55)](https://github.com/Arlchoose-code)
+![Corpus](https://img.shields.io/badge/CORPUS-~13B_TOKENS-0e7490?style=for-the-badge&labelColor=000000)
+![Tokenizer](https://img.shields.io/badge/TOKENIZER-32K_BPE-0f766e?style=for-the-badge&labelColor=000000)
+![Training](https://img.shields.io/badge/PROOF_OF_CONCEPT-20K_STEPS-6d28d9?style=for-the-badge&labelColor=000000)
 
 </div>
 
----
+The full pipeline works end to end, and proof-of-concept training produced coherent Indonesian text. Full-scale training remains compute-constrained—an engineering limit that now motivates research collaboration.
 
-## 🎓 Graduate Scholarship Mission
+### Systems shipped beyond the model
 
-> **Current chapter · August 2026—present**  
-> Taking a deliberate career break to pursue a **fully funded Master's degree abroad** at the intersection of **Language Technology, NLP, and Computational Sociolinguistics**.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### What I bring
-
-- 8+ years around real-world technology
-- International remote development experience
-- German-language education and cross-cultural communication
-- An open-source Indonesian LLM pipeline
-
-</td>
-<td width="33%" valign="top">
-
-### What I study
-
-- Low-resource Indonesian NLP
-- Computational sociolinguistics
-- Human-centered AI adoption
-- Responsible, security-aware systems
-
-</td>
-<td width="33%" valign="top">
-
-### What I am seeking
-
-- Fully funded Master's opportunities
-- Research mentors and supervisors
-- Language-technology collaborators
-- Compute and evaluation partnerships
-
-</td>
-</tr>
-</table>
-
-```yaml
-current_status: "Fighting for a graduate scholarship"
-target:         "Fully funded Master's degree abroad"
-research_area:  "Language Technology × Computational Sociolinguistics"
-building:       "Aibys2 — an Indonesian LLM stack from scratch"
-open_to:        "Research mentorship, collaboration, and compute partnerships"
-```
-
-<div align="center">
-
-[![Scholarship journey](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=94A3B8&center=true&vCenter=true&width=850&lines=QUESTION+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+FAIL+%E2%86%92+LEARN+%E2%86%92+RESEARCH;ENGINEERING+EVIDENCE+%2B+LINGUISTIC+TRAINING+%2B+SOCIAL+CONTEXT;INDONESIA+%E2%86%92+THE+WORLD+%E2%86%92+KNOWLEDGE+BACK+TO+INDONESIA)](https://git.io/typing-svg)
-
-</div>
+| PROJECT | WHAT IT PROVES |
+|---|---|
+| [Research Summarizer](https://github.com/Arlchoose-code/aibys-research-summarizer) | Research documents → structured summaries, limitations, and follow-up questions |
+| [Medical Explainer](https://github.com/Arlchoose-code/aibys-medical-explainer) | Local multimodal explanation with exportable, auditable results |
+| [Legal Analyzer](https://github.com/Arlchoose-code/aibys-legal-analyzer) | Contract summarization, risky-clause detection, and structured risk scoring |
+| [Invoice Extractor](https://github.com/Arlchoose-code/aibys-invoice-extractor) | Vision-based extraction from PDFs and images into structured records |
+| [ArLface Recognition](https://github.com/Arlchoose-code/ArLface-Recognition) | Real-time FastAPI/OpenCV system built around AuraFace embeddings |
+| [Aibys AI Platform](https://github.com/Arlchoose-code/aibys-frontend) | Streaming, multi-model chat with uploads, sessions, and administration |
 
 ---
 
-## 👋 The short version
+<a id="impact"></a>
+## 04 // Technology in the real world
 
-I'm **Syahril Haryono**, an Indonesian developer working at an unusual intersection: **German linguistics × AI engineering × grassroots community work**.
+### Desa Medalsari · Karawang, 2024
 
-I started exploring technology at 13 by trying to understand where systems break. That curiosity grew into a security-aware engineering mindset, years of building products for teams across Indonesia, Singapore, Italy, Belgium, and Europe, and eventually a deeper question: **how can language technology represent Indonesian speakers on their own terms?**
-
-My degree in **German Language Teacher Education at Universitas Negeri Jakarta** trained me to think about language structure, pedagogy, meaning, and cross-cultural communication. My engineering work taught me how to ship. My community work taught me that shipping is not the same as creating adoption.
-
-Today, I am bringing those perspectives together in preparation for graduate research.
-
----
-
-<a id="research-north-star"></a>
-## 🔭 Research North Star
-
-Two experiences left me with questions I still cannot stop thinking about.
-
-### 01 · Representation
-
-Building **Aibys**, an Indonesian LLM pipeline from scratch, made me confront how severely underrepresented Bahasa Indonesia is in the global NLP landscape.
-
-> **Why does this gap exist, and what does it actually take to close it properly?**
-
-### 02 · Adoption
-
-Leading a digital-transformation project in a rural village in Karawang—building a platform, training 20–50 residents, and later watching the system go unused—showed me that technical success does not guarantee social value.
-
-> **Why do communities with genuine needs still reject technology built “for” them?**  
-> Is the barrier the interface, the language, everyday relevance, culture—or the way we define “digital readiness” itself?
-
-These are not questions I can answer with more coding alone. **They are the questions I intend to bring into graduate research.**
-
-```text
-LANGUAGE REPRESENTATION ──┐
-                          ├──► Inclusive language technology for Indonesia
-COMMUNITY ADOPTION ───────┘        │
-                                   ├── NLP systems that understand local context
-SECURITY & ROBUSTNESS ─────────────┘
-```
-
-### Research interests
-
-`Indonesian NLP` · `Low-resource language modeling` · `Computational sociolinguistics` · `Human-centered AI` · `Digital inclusion` · `Responsible AI` · `Cross-cultural HCI`
-
----
-
-<a id="selected-work"></a>
-## 🧪 Selected Work
-
-### Aibys · An open Indonesian language-model ecosystem
-
-> A reproducible, open-source path from raw Indonesian text to an instruction-tuned language model.
-
-| Stage | Repository | Evidence |
-|:--:|---|---|
-| ① | [**Aibys Data Collector**](https://github.com/Arlchoose-code/Aibys-Data-Collector) | Streaming collection, cleaning, and preparation for 50GB+ corpora; estimated ~13B-token pipeline |
-| ② | [**Indonesian LLM Starter**](https://github.com/Arlchoose-code/Indonesian-LLM-Starter) | Decoder-only Transformer built with PyTorch: RMSNorm, RoPE, SwiGLU, Flash Attention 2, GGUF export |
-| ③ | [**Indonesian LLM Finetune**](https://github.com/Arlchoose-code/Indonesian-LLM-Finetune) | LoRA instruction-tuning pipeline for conversational Indonesian |
-| ④ | [**Aibys Tokenizer**](https://huggingface.co/syhrlhyn/aibys-tokenizer) | 32K-vocabulary BPE tokenizer trained on 10M sentences with weighted sampling |
-| ⑤ | [**Aibys2**](https://github.com/Arlchoose-code/Aibys2) | Runnable next-generation stack: tokenizer, training, checkpoints, SFT scaffolding, tools, and vision data |
-
-```text
-RAW TEXT  →  COLLECT & CLEAN  →  TOKENIZE  →  PRE-TRAIN  →  FINE-TUNE  →  EVALUATE
-                ~13B tokens       32K BPE      20K-step       LoRA          next
-                                               proof of
-                                               concept ✓
-```
-
-**Status:** The end-to-end pipeline is functional and proof-of-concept training produced coherent Indonesian text. Full-scale training is currently compute-constrained—one reason I am actively seeking academic and research collaboration.
-
-<div align="center">
-
-### ✦ PROJECT SIGNALS ✦
-
-[![Aibys2](https://img.shields.io/badge/⚡_AIBYS2-NEXT--GEN_LLM_STACK-0d1117?style=for-the-badge&labelColor=000000&color=0e7490)](https://github.com/Arlchoose-code/Aibys2)
-[![LLM Starter](https://img.shields.io/badge/◈_LLM_STARTER-PYTORCH_FROM_SCRATCH-0d1117?style=for-the-badge&labelColor=000000&color=0f766e)](https://github.com/Arlchoose-code/Indonesian-LLM-Starter)
-
-[![Data Collector](https://img.shields.io/badge/◆_DATA_COLLECTOR-INDONESIAN_CORPUS-0d1117?style=for-the-badge&labelColor=000000&color=4338ca)](https://github.com/Arlchoose-code/Aibys-Data-Collector)
-[![Face Recognition](https://img.shields.io/badge/◉_FACE_RECOGNITION-REAL--TIME_VISION-0d1117?style=for-the-badge&labelColor=000000&color=7c3aed)](https://github.com/Arlchoose-code/ArLface-Recognition)
-
-![Corpus](https://img.shields.io/badge/CORPUS_PIPELINE-~13B_TOKENS-06b6d4?style=for-the-badge&labelColor=0f172a)
-![Tokenizer](https://img.shields.io/badge/TOKENIZER-32K_BPE-8b5cf6?style=for-the-badge&labelColor=0f172a)
-![Training](https://img.shields.io/badge/POC_TRAINING-20K_STEPS-10b981?style=for-the-badge&labelColor=0f172a)
-
-</div>
-
-### Local-first AI tools
-
-| Repository | Purpose | Principles |
-|---|---|---|
-| [**Research Summarizer**](https://github.com/Arlchoose-code/aibys-research-summarizer) | Turns papers into structured summaries, limitations, and follow-up questions | Local · Private · Exportable |
-| [**Medical Explainer**](https://github.com/Arlchoose-code/aibys-medical-explainer) | Explains uploaded medical reports and highlights notable results | Local · Multimodal · Auditable |
-| [**Legal Analyzer**](https://github.com/Arlchoose-code/aibys-legal-analyzer) | Summarizes contracts, identifies risky clauses, and scores risk | Local · Structured · Traceable |
-| [**Invoice Extractor**](https://github.com/Arlchoose-code/aibys-invoice-extractor) | Extracts structured receipt and invoice data from PDFs or images | Local · Vision · CSV export |
-| [**ArLface Recognition**](https://github.com/Arlchoose-code/ArLface-Recognition) | Real-time face recognition using FastAPI, OpenCV, and AuraFace embeddings | Open source · Modular · Security-aware |
-
-### Products and platforms
-
-| Project | My contribution | Stack |
-|---|---|---|
-| [**Prometheus Academy**](https://github.com/Arlchoose-code/PrometheusAcademy-frontend) | Full-stack learning platform | Go · Next.js · TypeScript |
-| [**Aibys AI Chat Platform**](https://github.com/Arlchoose-code/aibys-frontend) | Streaming multi-model chat, uploads, sessions, and admin tooling | Next.js · React · Go · MySQL |
-| [**Desa Medalsari**](https://github.com/Arlchoose-code/desamedalsari-fe) | Village digital platform and on-site digital-literacy program | Laravel · Nuxt.js |
-| [**PayTrizz**](https://www.linkedin.com/in/syahril-haryono/) | PPOB, game top-up, digital services, and marketing platform | PHP · jQuery · Web APIs |
-
----
-
-<a id="experience"></a>
-## 💼 Experience
-
-### Professional snapshot
-
-| Period | Role | Organization · Location |
-|---|---|---|
-| May–Aug 2026 | Full Stack Web Developer · Freelance | **Prometheus Academy** · Indonesia, remote |
-| Feb–Apr 2026 | Full Stack Mobile Developer · Freelance | **RiCode** · Singapore, remote |
-| Jan–Mar 2026 | Full Stack Web Developer · Freelance | **IntoInc** · Belgium, remote |
-| Dec 2025–Mar 2026 | Full Stack Web Developer · Freelance | **Ocean Pedia** · Indonesia, remote |
-| Nov 2023–Dec 2025 | Fullstack Web Developer · Full-time | **Paytrizz Digital Solution** · Jakarta, remote |
-| Dec 2023–May 2024 | Full Stack Web Developer · Contract | **EuTech LTD** · Europe, remote |
-| Apr–Oct 2023 | Full Stack Web Developer · Contract | **YourData** · Italy, remote |
-| Mar 2022–Jan 2023 | Full Stack Web Developer · Contract | **uPark Network** · Remote |
-| Mar 2020–Sep 2021 | Back End Developer · Full-time | **Datasend** · Singapore, remote |
-| Aug 2018–Feb 2026 | IT Support · Self-employed | **ByteDevCode** · West Java, hybrid |
-
-<details>
-<summary><b>More freelance, community, and public-facing experience</b></summary>
-
-| Period | Role | Organization |
-|---|---|---|
-| Dec 2025–Feb 2026 | Full Stack Web Developer | GoStream · Singapore |
-| Aug–Oct 2025 | Full Stack Web Developer | Mangaread · Indonesia |
-| Feb–Jul 2025 | Public Relations & Protocol Intern | DPRD Kota Bogor |
-| Apr–Aug 2024 | Fullstack Web Developer | Desa Medalsari · Karawang |
-| Aug 2024 | Event Committee | Goethe-Institut Indonesien · Alles Goethe |
-| Jul–Aug 2024 | Exhibition Guide | Goethe-Institut · *Universum, Mensch, Intelligenz* |
-| Feb 2019–Feb 2020 | Full Stack Web Developer | Selpedia · Indonesia |
-
-</details>
-
----
-
-## 🌏 Community & Public Engagement
-
-### Desa Medalsari Digital · Karawang, 2024
-
-- Designed and deployed a digital platform for a rural village in West Java.
-- Conducted a one-week, on-site digital-literacy program for **20–50 local residents**.
-- Used the platform's later low adoption as a real-world case that now shapes my research direction.
+Built and deployed a village digital platform, then delivered a one-week on-site digital-literacy program for **20–50 residents**. The platform's later low adoption changed how I think: a technically correct system can still be socially wrong.
 
 ### Goethe-Institut Jakarta · 2024
 
-- Guided visitors through *UNIVERSUM · MENSCH · INTELLIGENZ* at Indonesia's National Library.
-- Supported public engagement with interactive installations about AI, the universe, and human intelligence.
-- Joined the Alles Goethe event committee, strengthening public-speaking and cross-cultural communication skills.
+Guided visitors through *UNIVERSUM · MENSCH · INTELLIGENZ* at Indonesia's National Library and supported public engagement with interactive installations about AI, the universe, and human intelligence.
+
+### The principle
+
+> I do not want to build technology merely *for* communities. I want to understand how language, culture, trust, and participation shape technology *with* them.
 
 ---
 
-<a id="education--credentials"></a>
-## 🏫 Education & Credentials
+<a id="journey"></a>
+## 05 // Journey
 
-### Universitas Negeri Jakarta · 2022–2027
+### Education
 
-**German Language Teacher Education**  
-Coursework and practice across German language, linguistics, pedagogy, public speaking, and cross-cultural communication.
+**Universitas Negeri Jakarta · 2022–2027**  
+German Language Teacher Education · linguistics · pedagogy · public speaking · cross-cultural communication
 
-### Selected certifications
+### Selected professional experience
 
-<p>
-<img src="https://img.shields.io/badge/IBM-Machine_Learning_with_Python-052FAD?style=flat-square&logo=ibm" alt="IBM Machine Learning with Python"/>
-<img src="https://img.shields.io/badge/Microsoft-Azure_for_AI_%26_ML-0078D4?style=flat-square&logo=microsoftazure" alt="Microsoft Azure for AI and ML"/>
-<img src="https://img.shields.io/badge/Google_Cloud-REST_API_with_Go-4285F4?style=flat-square&logo=googlecloud" alt="Google Cloud Go and Cloud Run"/>
-<img src="https://img.shields.io/badge/Anthropic-Model_Context_Protocol-191919?style=flat-square&logo=anthropic" alt="Anthropic MCP"/>
-<img src="https://img.shields.io/badge/Amazon-Generative_AI_in_Software_Development-FF9900?style=flat-square&logo=amazon" alt="Amazon Generative AI"/>
-<img src="https://img.shields.io/badge/Duke-Rust_Fundamentals-003087?style=flat-square" alt="Duke Rust Fundamentals"/>
-</p>
+| PERIOD | ROLE | ORGANIZATION |
+|---|---|---|
+| 2026 | Full Stack Web Developer | Prometheus Academy · Indonesia |
+| 2026 | Full Stack Mobile Developer | RiCode · Singapore |
+| 2026 | Full Stack Web Developer | IntoInc · Belgium |
+| 2025–2026 | Full Stack Web Developer | Ocean Pedia · Indonesia |
+| 2023–2025 | Fullstack Web Developer | Paytrizz Digital Solution · Jakarta |
+| 2023–2024 | Full Stack Web Developer | EuTech LTD · Europe |
+| 2023 | Full Stack Web Developer | YourData · Italy |
+| 2022–2023 | Full Stack Web Developer | uPark Network · Remote |
+| 2020–2021 | Back End Developer | Datasend · Singapore |
+| 2018–2026 | IT Support · Self-employed | ByteDevCode · West Java |
 
 <details>
-<summary><b>View certification portfolio · AI, cloud, full-stack, and systems</b></summary>
+<summary><b>Open the complete work, volunteer, and community timeline</b></summary>
 
-- **Anthropic:** Claude 101; Building with the Claude API; Claude Code in Action; Introduction to Model Context Protocol; MCP Advanced Topics; Claude on Vertex AI; Claude in Amazon Bedrock; AI Fluency programs.
-- **Microsoft:** Foundations of AI and Machine Learning; AI/ML Algorithms and Techniques; Azure for AI and Machine Learning; Advanced AI/ML Capstone; Intelligent Troubleshooting Agents; Full-Stack Capstone.
-- **IBM:** Machine Learning with Python; Python for Data Science, AI & Development; Full Stack Software Developer Assessment; Introduction to HTML, CSS & JavaScript.
-- **Google Cloud:** Core Infrastructure; Developing a REST API with Go and Cloud Run; Document AI with Python.
-- **Meta:** Version Control; Programming with JavaScript; Introduction to Front-End Development.
-- **Amazon:** Generative AI in Software Development; Full Stack Web Development.
-- **Duke University:** Rust Fundamentals.
-- **Santri Koding:** Full-stack programs across Rust, Go, JavaScript, Laravel, React, Vue, Svelte, Nuxt.js, Flutter, Bun, and Hono.
-- **Additional coursework:** Django migrations; Python, Pandas & NumPy; Java fundamentals and OOP; advanced CSS; Go/Nuxt company profiles.
+- **GoStream · 2025–2026** — Full Stack Web Developer, Singapore
+- **Mangaread · 2025** — Full Stack Web Developer, Indonesia
+- **DPRD Kota Bogor · 2025** — Public Relations & Protocol Intern
+- **Desa Medalsari · 2024** — Fullstack Web Developer, Karawang
+- **Goethe-Institut Indonesien · 2024** — Event Committee and Exhibition Guide
+- **Selpedia · 2019–2020** — Full Stack Web Developer, Indonesia
 
-Credential IDs and verification details are available on [my LinkedIn profile](https://www.linkedin.com/in/syahril-haryono/).
+</details>
+
+### Credentials
+
+![IBM](https://img.shields.io/badge/IBM-MACHINE_LEARNING_WITH_PYTHON-000000?style=flat-square&logo=ibm&logoColor=22d3ee)
+![Microsoft](https://img.shields.io/badge/MICROSOFT-AZURE_AI_%26_ML-000000?style=flat-square&logo=microsoftazure&logoColor=22d3ee)
+![Anthropic](https://img.shields.io/badge/ANTHROPIC-CLAUDE_%26_MCP-000000?style=flat-square&logo=anthropic&logoColor=22d3ee)
+![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-GO_%26_DOCUMENT_AI-000000?style=flat-square&logo=googlecloud&logoColor=22d3ee)
+![Amazon](https://img.shields.io/badge/AMAZON-GENERATIVE_AI-000000?style=flat-square&logo=amazon&logoColor=22d3ee)
+
+<details>
+<summary><b>Open the certification portfolio</b></summary>
+
+- **Anthropic:** Claude 101, Claude API, Claude Code, MCP introduction and advanced topics, Vertex AI, Amazon Bedrock, and AI Fluency programs.
+- **Microsoft:** AI/ML foundations, algorithms, Azure AI, advanced capstone, intelligent troubleshooting agents, and full-stack capstone.
+- **IBM:** Machine Learning with Python, Python for Data Science and AI, Full Stack assessment, HTML/CSS/JavaScript.
+- **Google Cloud:** Core Infrastructure, REST APIs with Go and Cloud Run, Document AI with Python.
+- **Meta, Amazon, Duke, Santri Koding, and others:** version control, JavaScript, frontend, generative AI, Rust, Go, Laravel, React, Vue, Nuxt, Flutter, Bun, and Hono.
+
+Verification details are available on [LinkedIn](https://www.linkedin.com/in/syahril-haryono/).
 
 </details>
 
 ---
 
-## 🧰 Technical Toolkit
+## 06 // Toolkit
 
 <div align="center">
 
-[![Technology icons](https://skillicons.dev/icons?i=python,pytorch,go,rust,php,ts,js,nextjs,react,vue,nuxt,fastapi,laravel,nodejs,bun,postgres,mysql,mongodb,redis,docker,git,linux,gcp,azure&perline=12&theme=dark)](https://skillicons.dev)
+[![Technology stack](https://skillicons.dev/icons?i=python,pytorch,go,rust,php,ts,js,nextjs,react,vue,nuxt,fastapi,laravel,nodejs,bun,postgres,mysql,mongodb,redis,docker,git,linux,gcp,azure&perline=12&theme=dark)](https://skillicons.dev)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=400&color=14B8A6&center=true&vCenter=true&width=820&lines=PYTORCH+%E2%80%A2+TRANSFORMERS+%E2%80%A2+LORA+%E2%80%A2+OLLAMA+%E2%80%A2+OPENCV;PYTHON+%E2%80%A2+GO+%E2%80%A2+RUST+%E2%80%A2+FASTAPI+%E2%80%A2+GIN+%E2%80%A2+LARAVEL;NEXT.JS+%E2%80%A2+REACT+%E2%80%A2+VUE+%E2%80%A2+TYPESCRIPT+%E2%80%A2+TAILWIND;POSTGRESQL+%E2%80%A2+MYSQL+%E2%80%A2+MONGODB+%E2%80%A2+REDIS+%E2%80%A2+SQLITE)](https://git.io/typing-svg)
+[![Animated toolkit](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1700&pause=350&color=14B8A6&center=true&vCenter=true&width=900&height=70&lines=PYTORCH+%E2%80%A2+TRANSFORMERS+%E2%80%A2+LORA+%E2%80%A2+OLLAMA+%E2%80%A2+OPENCV;PYTHON+%E2%80%A2+GO+%E2%80%A2+RUST+%E2%80%A2+FASTAPI+%E2%80%A2+GIN+%E2%80%A2+LARAVEL;NEXT.JS+%E2%80%A2+REACT+%E2%80%A2+VUE+%E2%80%A2+TYPESCRIPT+%E2%80%A2+TAILWIND;POSTGRESQL+%E2%80%A2+MYSQL+%E2%80%A2+MONGODB+%E2%80%A2+REDIS+%E2%80%A2+SQLITE)](https://git.io/typing-svg)
 
 </div>
 
-| Domain | Tools |
-|---|---|
-| **AI · NLP · Vision** | PyTorch, Transformers, SentencePiece, LoRA/PEFT, Ollama, llama.cpp, OpenCV, ArcFace/AuraFace |
-| **Backend · Systems** | Python, Go, Rust, PHP, Node.js, Bun, FastAPI, Gin, Echo, Laravel, Express, Hono |
-| **Frontend** | React, Next.js, Vue, Nuxt.js, TypeScript, Tailwind CSS |
-| **Data · Infrastructure** | PostgreSQL, MySQL, MongoDB, Redis, SQLite, Azure AI, Vertex AI, Amazon Bedrock |
-
-### Human languages
-
-| Language | Proficiency |
+| HUMAN LANGUAGE | PROFICIENCY |
 |---|---|
 | 🇮🇩 Bahasa Indonesia | Native |
 | 🇬🇧 English | Professional working proficiency |
-| 🇩🇪 Deutsch | B2 · 3+ years of academic study and Goethe-Institut volunteering |
+| 🇩🇪 Deutsch | B2 · 3+ years of academic study and Goethe-Institut experience |
 
 ---
 
-<a id="origin-story"></a>
-## 🗺️ Origin Story
-
-<details open>
-<summary><b>The path from curiosity to a graduate research mission</b></summary>
-
-```text
-2014  ── Age 13. Explored how systems fail and developed an instinct
-          for security, failure modes, and the machinery under the hood.
-           │
-2018  ── Channeled that curiosity into building. Joined an IT community,
-          co-founded ByteDevCode, and began developing for real users.
-           │
-2022  ── Entered German Language Teacher Education at UNJ. Language became
-          a new lens for meaning, communication, culture, and technology.
-           │
-2024  ── Volunteered at Goethe-Institut and led a village digitization project.
-          The platform worked technically—but adoption did not last.
-          A difficult outcome became a research question.
-           │
-2025  ── Began building Aibys: a tokenizer, ~13B-token data pipeline,
-          Transformer training stack, and Indonesian fine-tuning workflow.
-           │
-2026  ── Open-sourced the expanded Aibys ecosystem and local AI tools.
-          Took a deliberate career break to pursue graduate scholarships.
-           │
-NEXT  ── Find the academic environment, mentorship, and collaborators needed
-          to turn accumulated questions into rigorous, useful research. 🇮🇩
-```
-
-</details>
-
-### A few facts beyond the CV
-
-- 🔓 I learned how systems break before I learned how to build them; that still shapes how I engineer.
-- 🇩🇪 I study German-language education while building tools for Indonesian NLP.
-- 💻 I designed a ~13B-token corpus pipeline on hardware that could not complete the full training run.
-- 🏘️ I helped a village adopt a digital platform in one week—and learned more when it disappeared from daily use within a year.
-- 🧠 I believe many of AI's hardest problems are not only technical; they are linguistic, cultural, and social.
-- ☕ I am powered by questions that do not have Stack Overflow answers.
-
----
-
-## 📊 Open-Source Activity
+## 07 // Open-source telemetry
 
 <div align="center">
 
-[![Coding activity](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2100&pause=600&color=22D3EE&center=true&vCenter=true&width=820&lines=OPEN+SOURCE+IS+MY+PUBLIC+RESEARCH+NOTEBOOK;EVERY+COMMIT+IS+AN+EXPERIMENT+MADE+VISIBLE;BUILDING+IN+PUBLIC+%E2%80%A2+LEARNING+IN+PUBLIC+%E2%80%A2+GROWING+IN+PUBLIC)](https://git.io/typing-svg)
-
-<img width="98%" alt="Syahril Haryono's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arlchoose-code&theme=github_dark" />
+<img width="98%" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arlchoose-code&theme=github_dark" />
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arlchoose-code&theme=github_dark" alt="GitHub statistics" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arlchoose-code&theme=github_dark" alt="Repositories per language" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arlchoose-code&theme=github_dark&utcOffset=7" alt="Productive coding time" />
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arlchoose-code&bg_color=0d1117&color=cbd5e1&line=22d3ee&point=14b8a6&area=true&hide_border=true)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arlchoose-code&bg_color=05070b&color=cbd5e1&line=22d3ee&point=14b8a6&area=true&area_color=083344&hide_border=true&custom_title=Syahril%20Haryono's%20Contribution%20Graph)
 
-### 🐍 Contribution journey
+### Pac-Man contribution run
 
-<!-- Generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/pacman-contribution-graph-dark.svg" />
-  <img width="98%" alt="Pac-Man contribution animation" src="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/pacman-contribution-graph-dark.svg" />
-</picture>
+<!-- ?v=2 refreshes GitHub Camo after the action creates the file. -->
+<img width="98%" alt="Pac-Man contribution animation" src="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/pacman-contribution-graph-dark.svg?v=2" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/github-contribution-grid-snake.svg" />
-  <img width="98%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+### Contribution snake
+
+<img width="98%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Arlchoose-code/Arlchoose-code/output/github-contribution-grid-snake-dark.svg?v=2" />
 
 </div>
 
 ---
 
-<a id="lets-build-something-that-matters"></a>
+## 08 // Origin story
+
+<details>
+<summary><b>From breaking systems to researching language systems</b></summary>
+
+```text
+2014  Curiosity began at the edges of systems: vulnerabilities, networks,
+      failure modes, and how the machinery underneath actually worked.
+        │
+2018  Curiosity became construction. ByteDevCode and real users replaced
+      experiments without a destination.
+        │
+2022  German-language education introduced a second lens: meaning,
+      pedagogy, culture, and how communication succeeds—or breaks.
+        │
+2024  Goethe-Institut and Desa Medalsari connected technology with people.
+      A platform worked technically but failed to sustain adoption.
+        │
+2025  Aibys began: Indonesian data, a tokenizer, a Transformer stack,
+      proof-of-concept training, and a question larger than the code.
+        │
+2026  The ecosystem became public. I paused professional work to fight
+      for the scholarship and research environment needed for the next step.
+        │
+NEXT  Turn accumulated questions into rigorous graduate research—and
+      return the knowledge to the communities that shaped those questions.
+```
+
+</details>
+
+> “I learned how systems break before I learned how to build them. That is not a detour—it is the foundation.”
+
+---
+
+<a id="contact"></a>
 <div align="center">
 
-## 🤝 Let's build something that matters
+## Research. Collaborate. Build.
 
-I am open to conversations with **prospective supervisors, scholarship communities, research labs, open-source collaborators, and organizations working on inclusive language technology**.
+I am open to **prospective supervisors, scholarship communities, research labs, open-source collaborators, and compute partners** working on inclusive language technology.
 
-**Especially interested in:** Indonesian NLP · low-resource languages · human-centered AI · digital inclusion · responsible AI
+[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/syahril-haryono/)
+[![Explore the portfolio](https://img.shields.io/badge/EXPLORE_THE_PORTFOLIO-ARLAB.MY.ID-000000?style=for-the-badge&logo=safari&logoColor=22d3ee)](https://www.arlab.my.id)
 
-[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syahril-haryono/)
-[![Explore my work](https://img.shields.io/badge/EXPLORE_MY_WORK-Portfolio-0f766e?style=for-the-badge&logo=safari)](https://www.arlab.my.id)
-
-<br/>
-
-*“I learned how systems break before I learned how to build them.*  
-*That is not a detour—it is the foundation.”*
-
-**— Syahril Haryono · Bogor, Indonesia 🇮🇩**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891b2,30:111827,70:0d1117,100:000000)
+![Animated closing banner](./assets/footer.svg)
 
 </div>
