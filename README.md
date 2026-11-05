@@ -25,7 +25,7 @@ I am taking a deliberate career break to prepare for a **fully funded Master's d
 | SIGNAL | EVIDENCE |
 |---|---|
 | **Academic lens** | German Language Teacher Education · linguistics · pedagogy · cross-cultural communication |
-| **Engineering lens** | Full-stack and backend work across Indonesia, Singapore, Italy, Belgium, and Europe |
+| **Engineering lens** | Full-stack web development since 2018: freelance and self-employed projects in PHP, Laravel, Next.js, Nuxt.js, and Go |
 | **Research prototype** | Open Indonesian LLM pipeline: corpus → tokenizer → pre-training → fine-tuning |
 | **Social grounding** | Rural digital-literacy work and first-hand experience with technology-adoption failure |
 | **Next environment** | Master's program, research lab, supervisor, scholarship, and compute collaboration |
@@ -114,32 +114,21 @@ Guided visitors through *UNIVERSUM · MENSCH · INTELLIGENZ* at Indonesia's Nati
 **Universitas Negeri Jakarta · 2022–2027**  
 German Language Teacher Education · linguistics · pedagogy · public speaking · cross-cultural communication
 
-### Selected professional experience
+### Experience
 
 | PERIOD | ROLE | ORGANIZATION |
 |---|---|---|
-| 2026 | Full Stack Web Developer | Prometheus Academy · Indonesia |
-| 2026 | Full Stack Mobile Developer | RiCode · Singapore |
-| 2026 | Full Stack Web Developer | IntoInc · Belgium |
-| 2025–2026 | Full Stack Web Developer | Ocean Pedia · Indonesia |
-| 2023–2025 | Fullstack Web Developer | Paytrizz Digital Solution · Jakarta |
-| 2023–2024 | Full Stack Web Developer | EuTech LTD · Europe |
-| 2023 | Full Stack Web Developer | YourData · Italy |
-| 2022–2023 | Full Stack Web Developer | uPark Network · Remote |
-| 2020–2021 | Back End Developer | Datasend · Singapore |
-| 2018–2026 | IT Support · Self-employed | ByteDevCode · West Java |
-
-<details>
-<summary><b>Open the complete work, volunteer, and community timeline</b></summary>
-
-- **GoStream · 2025–2026** — Full Stack Web Developer, Singapore
-- **Mangaread · 2025** — Full Stack Web Developer, Indonesia
-- **DPRD Kota Bogor · 2025** — Public Relations & Protocol Intern
-- **Desa Medalsari · 2024** — Fullstack Web Developer, Karawang
-- **Goethe-Institut Indonesien · 2024** — Event Committee and Exhibition Guide
-- **Selpedia · 2019–2020** — Full Stack Web Developer, Indonesia
-
-</details>
+| Aug 2026 – present | Career break (graduate-study preparation) | Indonesia |
+| Nov 2023 – present | Fullstack Web Developer | Paytrizz Digital Solution · Self-employed, Jakarta |
+| May – Aug 2026 | Full Stack Web Developer | Prometheus Academy · Freelance, remote |
+| Aug – Oct 2025 | Full Stack Web Developer | Mangaread · Freelance, remote |
+| Feb – Jul 2025 | Public Relations & Protocol Intern | DPRD Kota Bogor |
+| Jul – Aug 2024 | Event Committee and Exhibition Guide | Goethe-Institut Indonesien · Part-time |
+| Apr – Aug 2024 | Fullstack Web Developer | Desa Medalsari · Freelance, Karawang |
+| Dec 2023 – Mar 2024 | Full Stack Web Developer | Ocean Pedia · Freelance, remote |
+| Sep 2022 – Jan 2023 | Full Stack Web Developer | uPark Network · Freelance, remote |
+| Feb 2019 – Feb 2020 | Full Stack Web Developer | Selpedia · Self-employed |
+| Aug 2018 – Feb 2026 | IT Support | ByteDevCode · Self-employed, West Java |
 
 ### Credentials
 
